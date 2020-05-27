@@ -14,6 +14,12 @@ The python3 script [`parse_endpoints.py`](https://github.com/philshem/swiss_coun
 
 + generates list of valid endpoints, saved to [`endpoints.json`](https://raw.githubusercontent.com/philshem/swiss_counter_data/master/endpoints.json)
 
++ generates 3 results files (markdown, json, csv; links below)
+
+The python3 script [`make_dashboard.py`](https://github.com/philshem/swiss_counter_data/blob/master/make_dashboard.py):
+
++ generates an [html](https://raw.githubusercontent.com/philshem/swiss_counter_data/html/master/index.html) file that displays all "sporty" places on one page
+
 ---
 
 Result files:
@@ -23,6 +29,8 @@ Result files:
 ## [CSV](https://raw.githubusercontent.com/philshem/swiss_counter_data/master/results.csv)
 
 ## [JSON](https://raw.githubusercontent.com/philshem/swiss_counter_data/master/results.json)
+
+## [Dashboard](https://raw.githubusercontent.com/philshem/swiss_counter_data/html/master/index.html)
 
 
 All things unofficial. Data is owned by the owners. YMMV.
