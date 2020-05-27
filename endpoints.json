@@ -1170,9 +1170,9 @@
      },
      "counteritems": [
       {
-       "id": 73261,
-       "val": 11,
-       "ts_created": 1590567537
+       "id": 73561,
+       "val": 2,
+       "ts_created": 1590572202
       }
      ],
      "bookings_active": null
@@ -1300,9 +1300,9 @@
      },
      "counteritems": [
       {
-       "id": 73247,
-       "val": 30,
-       "ts_created": 1590567238
+       "id": 73689,
+       "val": 25,
+       "ts_created": 1590573751
       }
      ],
      "bookings_active": null
@@ -1440,9 +1440,9 @@
      },
      "counteritems": [
       {
-       "id": 73266,
-       "val": 2,
-       "ts_created": 1590567597
+       "id": 73685,
+       "val": 8,
+       "ts_created": 1590573670
       }
      ],
      "bookings_active": null
@@ -1941,9 +1941,9 @@
      },
      "counteritems": [
       {
-       "id": 67558,
-       "val": 2,
-       "ts_created": 1590404153
+       "id": 73562,
+       "val": 4,
+       "ts_created": 1590572204
       }
      ],
      "bookings_active": null
@@ -2710,9 +2710,9 @@
      },
      "counteritems": [
       {
-       "id": 73265,
-       "val": 0,
-       "ts_created": 1590567591
+       "id": 73682,
+       "val": 21,
+       "ts_created": 1590573642
       }
      ],
      "bookings_active": null
@@ -3083,9 +3083,9 @@
      },
      "counteritems": [
       {
-       "id": 73271,
-       "val": 14,
-       "ts_created": 1590567661
+       "id": 73688,
+       "val": 12,
+       "ts_created": 1590573745
       }
      ],
      "bookings_active": null

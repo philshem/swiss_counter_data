@@ -49,9 +49,9 @@ def parse_endpoints():
 		df.reset_index().to_json(config.JSON_PATH, orient='records', indent=True)
 
 	# prepare to process for markdown
-	df['slug / url'] = df.apply(lambda x: wrap_md(x.slug, x.url), axis=1)
-	del df['slug']
-	del df['url']
+	df['url'] = df.apply(lambda x: wrap_md(x.slug, x.url), axis=1)
+	#del df['slug']
+	#del df['url']
 	
 	md = df.to_markdown()
 
