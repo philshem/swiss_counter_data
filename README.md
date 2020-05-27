@@ -1,13 +1,18 @@
+⚠️ This file is generated automatically. Please make edits to the markdown in [`config.py`](https://github.com/philshem/swiss_counter_data/blob/master/config.py).
 
 # Use the following table to find status and availability of open places
 
-The python3 script `parse_endpoints.py`:
+The python3 script [`parse_endpoints.py`](https://github.com/philshem/swiss_counter_data/blob/master/parse_endpoints.py):
 
-+ generates list of valid endpoints, saved to endpoints.json
++ generates list of valid endpoints, saved to [`endpoints.json`](https://github.com/philshem/swiss_counter_data/blob/master/endpoints.json)
 
-+ writes this file (README.md) with table of links
++ writes this file ([`README.md`](https://github.com/philshem/swiss_counter_data/blob/master/README.md)) with table of links
+
++ writes list as CSV, saved to [`results.json`](https://github.com/philshem/swiss_counter_data/blob/master/results.json)
+
 
 ---
+
 ## Results table
 
 |   index | name                                      | slug / url                                                             |
@@ -97,15 +102,17 @@ The python3 script `parse_endpoints.py`:
 |     132 | Badi Test                                 | [c5ec4b50313abd](https://www.countee.ch/app/de/counter/c5ec4b50313abd) |
 |     133 | SBM Test                                  | [c5ec4c85b1cf4f](https://www.countee.ch/app/de/counter/c5ec4c85b1cf4f) |
 |     134 | Digitec Store Zürich                      | [c5ec4e88e6b063](https://www.countee.ch/app/de/counter/c5ec4e88e6b063) |
-|     135 |                                           | [c5ec4eaf1ce8dc](https://www.countee.ch/app/de/counter/c5ec4eaf1ce8dc) |
+|     135 | c5ec4eaf1ce8dc                            | [c5ec4eaf1ce8dc](https://www.countee.ch/app/de/counter/c5ec4eaf1ce8dc) |
 |     136 | Gemeinderats - Sitzung                    | [c5ec4fa0a6b6c0](https://www.countee.ch/app/de/counter/c5ec4fa0a6b6c0) |
 |     137 | Test                                      | [c5ec5514b88f4e](https://www.countee.ch/app/de/counter/c5ec5514b88f4e) |
 |     138 | FakeNew                                   | [c5ec5c90499c3e](https://www.countee.ch/app/de/counter/c5ec5c90499c3e) |
 |     139 | EINGANG                                   | [c5ec6538f1cd21](https://www.countee.ch/app/de/counter/c5ec6538f1cd21) |
 |     140 | Tauchsport Uster                          | [c5ec77bf546a4e](https://www.countee.ch/app/de/counter/c5ec77bf546a4e) |
 |     141 | Hallenbad City                            | [c5ec7e536b4ddb](https://www.countee.ch/app/de/counter/c5ec7e536b4ddb) |
-|     142 |                                           | [c5ec97126611fe](https://www.countee.ch/app/de/counter/c5ec97126611fe) |
+|     142 | c5ec97126611fe                            | [c5ec97126611fe](https://www.countee.ch/app/de/counter/c5ec97126611fe) |
 |     145 | Schwimmbad Waldacher                      | [c5ecadbcf2e901](https://www.countee.ch/app/de/counter/c5ecadbcf2e901) |
 |     146 | GZA Kafi                                  | [c5ecb798a17704](https://www.countee.ch/app/de/counter/c5ecb798a17704) |
 |     147 | Schachen Badi                             | [c5ecb9d5d99f44](https://www.countee.ch/app/de/counter/c5ecb9d5d99f44) |
+
+All things unofficial. Data is owned by the owners. YMMV.
 

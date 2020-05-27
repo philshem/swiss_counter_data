@@ -27,22 +27,37 @@ def parse_endpoints():
 		if y:
 
 			slug = y.get('slug',None).strip()
-			name = y.get('name','N/A').strip()
+			name = y.get('name',None).strip()
 			index = y.get('id',None)
 
+			# so that there are no empty cells in table
+			if len(name) == 0:
+				name = slug
+
+			# can expand columns here
 			#slug_badi_info = y.get('slug_badi_info',None)
 
 			url = config.URL_DATA.format(slug)
-			full_list.append({'index': index, 'name' : name, 'slug / url' : wrap_md(slug, url)})
+			full_list.append({'index': index, 'name' : name, 'slug': slug, 'url' : url})
 
 	df = pd.DataFrame(full_list).set_index('index')
+	
+	# dump to csv, if param set to True
+	if config.WRITE_CSV:
+		df.to_csv(config.CSV_PATH)
 
+	# prepare to process for markdown
+	df['slug / url'] = df.apply(lambda x: wrap_md(x.slug, x.url), axis=1)
+	del df['slug']
+	del df['url']
+	
 	md = config.MARKDOWN_TEMPLATE.format(config.METADATA_FILE, config.MARKDOWN_FILE, df.to_markdown())
 
+	# dump to markdown file in repo
 	with open(config.MARKDOWN_FILE,'w') as fp:
 		fp.write(md)
 
-	print(md)
+#	print(md)
 
 def get_endpoints():
 
@@ -67,8 +82,7 @@ def get_endpoints():
 		json.dump(good_list, fp, indent = True)
 
 def wrap_md(text, link):
-	#if len(name) == 0:
-	#	name = 'N/A'
+
 	return '[{0}]({1})'.format(text, link)
 
 
