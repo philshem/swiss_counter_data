@@ -10,12 +10,12 @@ But as far as I know, are not yet indexed.he following table to find status and 
 
 The python3 script [`parse_endpoints.py`](https://github.com/philshem/swiss_counter_data/blob/master/parse_endpoints.py):
 
-+ generates list of valid endpoints, saved to [`endpoints.json`](https://github.com/philshem/swiss_counter_data/blob/master/endpoints.json)
++ generates list of valid endpoints, saved to [`endpoints.json`](https://raw.githubusercontent.com/philshem/swiss_counter_data/master/endpoints.json)
 
 ---
 # Results
 
-## [Markdown Table](https://github.com/philshem/swiss_counter_data/blob/master/README.md)
+## [Markdown Table](https://github.com/philshem/swiss_counter_data/blob/master/RESULTS.md)
 
 ## [CSV](https://raw.githubusercontent.com/philshem/swiss_counter_data/master/results.csv)
 
