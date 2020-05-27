@@ -1,7 +1,4 @@
 
-
-## Results table
-
 |   index | name                                      | slug / url                                                             |
 |--------:|:------------------------------------------|:-----------------------------------------------------------------------|
 |      12 | Bären                                     | [a1](https://www.countee.ch/app/de/counter/a1)                         |
@@ -100,4 +97,3 @@
 |     145 | Schwimmbad Waldacher                      | [c5ecadbcf2e901](https://www.countee.ch/app/de/counter/c5ecadbcf2e901) |
 |     146 | GZA Kafi                                  | [c5ecb798a17704](https://www.countee.ch/app/de/counter/c5ecb798a17704) |
 |     147 | Schachen Badi                             | [c5ecb9d5d99f44](https://www.countee.ch/app/de/counter/c5ecb9d5d99f44) |
-
