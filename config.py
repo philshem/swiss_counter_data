@@ -16,18 +16,31 @@ CSV_PATH = 'results.csv'
 
 MARKDOWN_FILE = 'README.md'
 MARKDOWN_TEMPLATE = '''
-# Use the following table to find status and availability of open places
+⚠️ This file is generated automatically. Please make edits to the markdown in [`config.py`](https://github.com/philshem/swiss_counter_data/blob/master/config.py).
 
-The python3 script `parse_endpoints.py`:
+# Use the following table as a list of entry-counter status, and availability of open places
 
-+ generates list of valid endpoints, saved to {0}
+I made this list so as some swimming pools open, I'd like an easy index for checking how crowded they are, or if they are no longer allowing entries.
 
-+ writes this file ({1}) with table of links
+The dashboards for each place are publicly available (see screenshot)
+![example screenshot](https://raw.githubusercontent.com/philshem/swiss_counter_data/master/screenshot.png)
+
+But as far as I know, are not yet indexed.
+
+---
+
+The python3 script [`parse_endpoints.py`](https://github.com/philshem/swiss_counter_data/blob/master/parse_endpoints.py):
+
++ generates list of valid endpoints, saved to [`endpoints.json`](https://github.com/philshem/swiss_counter_data/blob/master/endpoints.json)
+
++ writes list as CSV, saved to [`results.json`](https://github.com/philshem/swiss_counter_data/blob/master/results.json)
+
++ writes this file ([`README.md`](https://github.com/philshem/swiss_counter_data/blob/master/README.md)) with table of links
 
 ---
 ## Results table
 
-{2}
+{0}
 
 All things unofficial. Data is owned by the owners. YMMV.
 

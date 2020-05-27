@@ -51,7 +51,7 @@ def parse_endpoints():
 	del df['slug']
 	del df['url']
 	
-	md = config.MARKDOWN_TEMPLATE.format(config.METADATA_FILE, config.MARKDOWN_FILE, df.to_markdown())
+	md = config.MARKDOWN_TEMPLATE.format(df.to_markdown())
 
 	# dump to markdown file in repo
 	with open(config.MARKDOWN_FILE,'w') as fp:
