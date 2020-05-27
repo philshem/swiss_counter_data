@@ -2,7 +2,7 @@
 
 
 # scanning endpoints
-GET_ENDPOINTS = False
+GET_ENDPOINTS = True
 METADATA_FILE = 'endpoints.json'
 URL_METADATA = 'https://www.startupuniverse.ch/api/1.0/de/counters/get/{0}'
 RNG = (1,200) # seems to be between 10 and 150
@@ -11,13 +11,10 @@ RNG = (1,200) # seems to be between 10 and 150
 URL_DATA = 'https://www.countee.ch/app/de/counter/{0}'
 
 # output generation
-WRITE_CSV = True
 CSV_PATH = 'results.csv'
+JSON_PATH = 'results.json'
 
-MARKDOWN_FILE = 'RESULTS.md'
-MARKDOWN_TEMPLATE = '''
-{0}
-'''
+MARKDOWN_TABLE = 'RESULTS.md'
 
 
 #MARKDOWN_TEMPLATE = MARKDOWN_TEMPLATE.format()

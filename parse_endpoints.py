@@ -8,9 +8,8 @@ import config
 
 '''
 1. collect list of endpoints for open places' counters
-2. write markdown table of clickable links
+2. write markdown table of clickable links (csv, json too)
 '''
-
 
 def parse_endpoints():
 
@@ -43,19 +42,23 @@ def parse_endpoints():
 	df = pd.DataFrame(full_list).set_index('index')
 	
 	# dump to csv, if param set to True
-	if config.WRITE_CSV:
+	if config.CSV_PATH:
 		df.to_csv(config.CSV_PATH)
+
+	if config.JSON_PATH:
+		df.reset_index().to_json(config.JSON_PATH, orient='records', indent=True)
 
 	# prepare to process for markdown
 	df['slug / url'] = df.apply(lambda x: wrap_md(x.slug, x.url), axis=1)
 	del df['slug']
 	del df['url']
 	
-	md = config.MARKDOWN_TEMPLATE.format(df.to_markdown())
+	md = df.to_markdown()
 
 	# dump to markdown file in repo
-	with open(config.MARKDOWN_FILE,'w') as fp:
+	with open(config.MARKDOWN_TABLE,'w') as fp:
 		fp.write(md)
+
 
 #	print(md)
 
@@ -83,7 +86,7 @@ def get_endpoints():
 
 def wrap_md(text, link):
 
-	return '[{0}]({1})'.format(text, link)
+	return '[{1}]({1})'.format(text, link)
 
 
 if __name__ == '__main__':

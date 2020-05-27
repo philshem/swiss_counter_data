@@ -19,6 +19,8 @@ The python3 script [`parse_endpoints.py`](https://github.com/philshem/swiss_coun
 
 ## [CSV](https://raw.githubusercontent.com/philshem/swiss_counter_data/master/results.csv)
 
+## [JSON](https://raw.githubusercontent.com/philshem/swiss_counter_data/master/results.json)
+
 
 All things unofficial. Data is owned by the owners. YMMV.
 
