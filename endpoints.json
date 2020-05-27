@@ -1,0 +1,3096 @@
+[
+ {
+  "url": "https://www.startupuniverse.ch/api/1.0/de/counters/get/12",
+  "data": {
+   "response": {
+    "data": {
+     "id": 12,
+     "name": "B\u00e4ren",
+     "msg": " ",
+     "slug": "a1",
+     "slug_badi_info": null,
+     "mode": "manual",
+     "max": 50,
+     "bookings_enabled": 0,
+     "closed": 0,
+     "status": 1,
+     "logo": null,
+     "user_id": 6278,
+     "company": null,
+     "counteritems": [
+      {
+       "id": 33,
+       "val": 2,
+       "ts_created": 1584356718
+      }
+     ],
+     "bookings_active": null
+    }
+   }
+  }
+ },
+ {
+  "url": "https://www.startupuniverse.ch/api/1.0/de/counters/get/13",
+  "data": {
+   "response": {
+    "data": {
+     "id": 13,
+     "name": "Kletterhalle",
+     "msg": "aa",
+     "slug": "a2",
+     "slug_badi_info": null,
+     "mode": "manual",
+     "max": 10,
+     "bookings_enabled": 0,
+     "closed": 0,
+     "status": 1,
+     "logo": null,
+     "user_id": 34,
+     "company": {
+      "id": 1217,
+      "name": "",
+      "address": null,
+      "companytype_id": null
+     },
+     "counteritems": [
+      {
+       "id": 6688,
+       "val": 25,
+       "ts_created": 1588116558
+      }
+     ],
+     "bookings_active": null
+    }
+   }
+  }
+ },
+ {
+  "url": "https://www.startupuniverse.ch/api/1.0/de/counters/get/14",
+  "data": {
+   "response": {
+    "data": {
+     "id": 14,
+     "name": "Migros Uster",
+     "msg": "",
+     "slug": "a3",
+     "slug_badi_info": null,
+     "mode": "manual",
+     "max": 100,
+     "bookings_enabled": 0,
+     "closed": 0,
+     "status": 1,
+     "logo": null,
+     "user_id": 6277,
+     "company": null,
+     "counteritems": [
+      {
+       "id": 3572,
+       "val": 43,
+       "ts_created": 1587506535
+      }
+     ],
+     "bookings_active": null
+    }
+   }
+  }
+ },
+ {
+  "url": "https://www.startupuniverse.ch/api/1.0/de/counters/get/15",
+  "data": {
+   "response": {
+    "data": {
+     "id": 15,
+     "name": "Migros Uster West",
+     "msg": "A",
+     "slug": "a4",
+     "slug_badi_info": null,
+     "mode": "manual",
+     "max": 5,
+     "bookings_enabled": 0,
+     "closed": 0,
+     "status": 1,
+     "logo": null,
+     "user_id": 34,
+     "company": null,
+     "counteritems": [
+      {
+       "id": 727,
+       "val": 4,
+       "ts_created": 1587052310
+      }
+     ],
+     "bookings_active": null
+    }
+   }
+  }
+ },
+ {
+  "url": "https://www.startupuniverse.ch/api/1.0/de/counters/get/16",
+  "data": {
+   "response": {
+    "data": {
+     "id": 16,
+     "name": "Grocery Shopping",
+     "msg": "+51 84 233 751",
+     "slug": "x1",
+     "slug_badi_info": null,
+     "mode": "manual",
+     "max": 5,
+     "bookings_enabled": 0,
+     "closed": 0,
+     "status": 1,
+     "logo": null,
+     "user_id": 6279,
+     "company": null,
+     "counteritems": [
+      {
+       "id": 6410,
+       "val": 0,
+       "ts_created": 1588109808
+      }
+     ],
+     "bookings_active": null
+    }
+   }
+  }
+ },
+ {
+  "url": "https://www.startupuniverse.ch/api/1.0/de/counters/get/17",
+  "data": {
+   "response": {
+    "data": {
+     "id": 17,
+     "name": "Coop",
+     "msg": null,
+     "slug": "x2",
+     "slug_badi_info": null,
+     "mode": "manual",
+     "max": 25,
+     "bookings_enabled": 0,
+     "closed": 0,
+     "status": 1,
+     "logo": null,
+     "user_id": 5591,
+     "company": null,
+     "counteritems": [],
+     "bookings_active": null
+    }
+   }
+  }
+ },
+ {
+  "url": "https://www.startupuniverse.ch/api/1.0/de/counters/get/19",
+  "data": {
+   "response": {
+    "data": {
+     "id": 19,
+     "name": "migi",
+     "msg": null,
+     "slug": "x7",
+     "slug_badi_info": null,
+     "mode": "manual",
+     "max": 100,
+     "bookings_enabled": 0,
+     "closed": 0,
+     "status": 1,
+     "logo": null,
+     "user_id": 5591,
+     "company": null,
+     "counteritems": [
+      {
+       "id": 353,
+       "val": 8,
+       "ts_created": 1584483520
+      }
+     ],
+     "bookings_active": null
+    }
+   }
+  }
+ },
+ {
+  "url": "https://www.startupuniverse.ch/api/1.0/de/counters/get/22",
+  "data": {
+   "response": {
+    "data": {
+     "id": 22,
+     "name": "Imkerstr.",
+     "msg": null,
+     "slug": "y2",
+     "slug_badi_info": null,
+     "mode": "manual",
+     "max": 7,
+     "bookings_enabled": 0,
+     "closed": 0,
+     "status": 1,
+     "logo": null,
+     "user_id": 6281,
+     "company": null,
+     "counteritems": [
+      {
+       "id": 440,
+       "val": 6,
+       "ts_created": 1584562951
+      }
+     ],
+     "bookings_active": null
+    }
+   }
+  }
+ },
+ {
+  "url": "https://www.startupuniverse.ch/api/1.0/de/counters/get/23",
+  "data": {
+   "response": {
+    "data": {
+     "id": 23,
+     "name": "R\u00fcesch",
+     "msg": "0797705800",
+     "slug": "k1",
+     "slug_badi_info": null,
+     "mode": "manual",
+     "max": 10,
+     "bookings_enabled": 0,
+     "closed": 0,
+     "status": 1,
+     "logo": null,
+     "user_id": 6282,
+     "company": null,
+     "counteritems": [
+      {
+       "id": 562,
+       "val": 5,
+       "ts_created": 1584612019
+      }
+     ],
+     "bookings_active": null
+    }
+   }
+  }
+ },
+ {
+  "url": "https://www.startupuniverse.ch/api/1.0/de/counters/get/24",
+  "data": {
+   "response": {
+    "data": {
+     "id": 24,
+     "name": "Petfriends Biel/Bienne",
+     "msg": "079 344 44 25",
+     "slug": "k2",
+     "slug_badi_info": null,
+     "mode": "manual",
+     "max": 6,
+     "bookings_enabled": 0,
+     "closed": 0,
+     "status": 1,
+     "logo": null,
+     "user_id": 6285,
+     "company": null,
+     "counteritems": [
+      {
+       "id": 599,
+       "val": 0,
+       "ts_created": 1584630290
+      }
+     ],
+     "bookings_active": null
+    }
+   }
+  }
+ },
+ {
+  "url": "https://www.startupuniverse.ch/api/1.0/de/counters/get/25",
+  "data": {
+   "response": {
+    "data": {
+     "id": 25,
+     "name": "Petfriends Biel/Bienne",
+     "msg": "032 560 49 09",
+     "slug": "k4",
+     "slug_badi_info": null,
+     "mode": "manual",
+     "max": 5,
+     "bookings_enabled": 0,
+     "closed": 0,
+     "status": 1,
+     "logo": null,
+     "user_id": 6285,
+     "company": null,
+     "counteritems": [
+      {
+       "id": 680,
+       "val": 5,
+       "ts_created": 1584804683
+      }
+     ],
+     "bookings_active": null
+    }
+   }
+  }
+ },
+ {
+  "url": "https://www.startupuniverse.ch/api/1.0/de/counters/get/26",
+  "data": {
+   "response": {
+    "data": {
+     "id": 26,
+     "name": "Schlossapotheke Uster",
+     "msg": "0434442525",
+     "slug": "k3",
+     "slug_badi_info": null,
+     "mode": "manual",
+     "max": 12,
+     "bookings_enabled": 0,
+     "closed": 0,
+     "status": 1,
+     "logo": null,
+     "user_id": 6288,
+     "company": null,
+     "counteritems": [],
+     "bookings_active": null
+    }
+   }
+  }
+ },
+ {
+  "url": "https://www.startupuniverse.ch/api/1.0/de/counters/get/29",
+  "data": {
+   "response": {
+    "data": {
+     "id": 29,
+     "name": "Abc",
+     "msg": "asdfasdf",
+     "slug": "l2",
+     "slug_badi_info": null,
+     "mode": "manual",
+     "max": 10,
+     "bookings_enabled": 0,
+     "closed": 0,
+     "status": 1,
+     "logo": null,
+     "user_id": 6304,
+     "company": null,
+     "counteritems": [
+      {
+       "id": 9056,
+       "val": 9,
+       "ts_created": 1588545059
+      }
+     ],
+     "bookings_active": null
+    }
+   }
+  }
+ },
+ {
+  "url": "https://www.startupuniverse.ch/api/1.0/de/counters/get/31",
+  "data": {
+   "response": {
+    "data": {
+     "id": 31,
+     "name": "Spiga Glattzentrum",
+     "msg": null,
+     "slug": "o7",
+     "slug_badi_info": null,
+     "mode": "manual",
+     "max": 10,
+     "bookings_enabled": 0,
+     "closed": 0,
+     "status": 1,
+     "logo": null,
+     "user_id": 6304,
+     "company": null,
+     "counteritems": [
+      {
+       "id": 1940,
+       "val": 4,
+       "ts_created": 1587194199
+      }
+     ],
+     "bookings_active": null
+    }
+   }
+  }
+ },
+ {
+  "url": "https://www.startupuniverse.ch/api/1.0/de/counters/get/32",
+  "data": {
+   "response": {
+    "data": {
+     "id": 32,
+     "name": "TEST_off",
+     "msg": null,
+     "slug": "o8",
+     "slug_badi_info": null,
+     "mode": "manual",
+     "max": 100,
+     "bookings_enabled": 0,
+     "closed": 0,
+     "status": 1,
+     "logo": null,
+     "user_id": 6303,
+     "company": null,
+     "counteritems": [
+      {
+       "id": 3039,
+       "val": 63,
+       "ts_created": 1587423460
+      }
+     ],
+     "bookings_active": null
+    }
+   }
+  }
+ },
+ {
+  "url": "https://www.startupuniverse.ch/api/1.0/de/counters/get/33",
+  "data": {
+   "response": {
+    "data": {
+     "id": 33,
+     "name": "COUNTER",
+     "msg": "0000",
+     "slug": "o4",
+     "slug_badi_info": null,
+     "mode": "manual",
+     "max": 110,
+     "bookings_enabled": 0,
+     "closed": 0,
+     "status": 1,
+     "logo": null,
+     "user_id": 6277,
+     "company": null,
+     "counteritems": [
+      {
+       "id": 7683,
+       "val": 0,
+       "ts_created": 1588371538
+      }
+     ],
+     "bookings_active": null
+    }
+   }
+  }
+ },
+ {
+  "url": "https://www.startupuniverse.ch/api/1.0/de/counters/get/34",
+  "data": {
+   "response": {
+    "data": {
+     "id": 34,
+     "name": "PaescCounter",
+     "msg": "",
+     "slug": "q1",
+     "slug_badi_info": null,
+     "mode": "manual",
+     "max": 0,
+     "bookings_enabled": 0,
+     "closed": 0,
+     "status": 1,
+     "logo": null,
+     "user_id": 6279,
+     "company": null,
+     "counteritems": [],
+     "bookings_active": null
+    }
+   }
+  }
+ },
+ {
+  "url": "https://www.startupuniverse.ch/api/1.0/de/counters/get/35",
+  "data": {
+   "response": {
+    "data": {
+     "id": 35,
+     "name": "Migros Uster",
+     "msg": "",
+     "slug": "q2",
+     "slug_badi_info": null,
+     "mode": "automatic",
+     "max": 5,
+     "bookings_enabled": 0,
+     "closed": 0,
+     "status": 1,
+     "logo": null,
+     "user_id": 6279,
+     "company": {
+      "id": 1219,
+      "name": "",
+      "address": null,
+      "companytype_id": null
+     },
+     "counteritems": [
+      {
+       "id": 15831,
+       "val": 0,
+       "ts_created": 1589316011
+      }
+     ],
+     "bookings_active": null
+    }
+   }
+  }
+ },
+ {
+  "url": "https://www.startupuniverse.ch/api/1.0/de/counters/get/36",
+  "data": {
+   "response": {
+    "data": {
+     "id": 36,
+     "name": "David Becker",
+     "msg": "797228328",
+     "slug": "q3",
+     "slug_badi_info": null,
+     "mode": "manual",
+     "max": 60,
+     "bookings_enabled": 0,
+     "closed": 0,
+     "status": 1,
+     "logo": null,
+     "user_id": 6305,
+     "company": null,
+     "counteritems": [
+      {
+       "id": 3273,
+       "val": 60,
+       "ts_created": 1587467032
+      }
+     ],
+     "bookings_active": null
+    }
+   }
+  }
+ },
+ {
+  "url": "https://www.startupuniverse.ch/api/1.0/de/counters/get/37",
+  "data": {
+   "response": {
+    "data": {
+     "id": 37,
+     "name": "Test-Simon",
+     "msg": "",
+     "slug": "a3",
+     "slug_badi_info": null,
+     "mode": "manual",
+     "max": 0,
+     "bookings_enabled": 0,
+     "closed": 0,
+     "status": 1,
+     "logo": null,
+     "user_id": 6306,
+     "company": null,
+     "counteritems": [],
+     "bookings_active": null
+    }
+   }
+  }
+ },
+ {
+  "url": "https://www.startupuniverse.ch/api/1.0/de/counters/get/38",
+  "data": {
+   "response": {
+    "data": {
+     "id": 38,
+     "name": "KKK",
+     "msg": "TELf",
+     "slug": "r4",
+     "slug_badi_info": null,
+     "mode": "manual",
+     "max": 12,
+     "bookings_enabled": 0,
+     "closed": 0,
+     "status": 1,
+     "logo": null,
+     "user_id": 6277,
+     "company": null,
+     "counteritems": [
+      {
+       "id": 5378,
+       "val": 0,
+       "ts_created": 1587896592
+      }
+     ],
+     "bookings_active": null
+    }
+   }
+  }
+ },
+ {
+  "url": "https://www.startupuniverse.ch/api/1.0/de/counters/get/39",
+  "data": {
+   "response": {
+    "data": {
+     "id": 39,
+     "name": "Migros Meilen",
+     "msg": "TEL",
+     "slug": "t6",
+     "slug_badi_info": null,
+     "mode": "manual",
+     "max": 100,
+     "bookings_enabled": 0,
+     "closed": 0,
+     "status": 1,
+     "logo": null,
+     "user_id": 6277,
+     "company": null,
+     "counteritems": [
+      {
+       "id": 4272,
+       "val": 0,
+       "ts_created": 1587674209
+      }
+     ],
+     "bookings_active": null
+    }
+   }
+  }
+ },
+ {
+  "url": "https://www.startupuniverse.ch/api/1.0/de/counters/get/40",
+  "data": {
+   "response": {
+    "data": {
+     "id": 40,
+     "name": "Migros Test",
+     "msg": "TELhh",
+     "slug": "z7",
+     "slug_badi_info": null,
+     "mode": "manual",
+     "max": 5,
+     "bookings_enabled": 0,
+     "closed": 0,
+     "status": 1,
+     "logo": null,
+     "user_id": 6304,
+     "company": null,
+     "counteritems": [
+      {
+       "id": 6738,
+       "val": 5,
+       "ts_created": 1588123586
+      }
+     ],
+     "bookings_active": null
+    }
+   }
+  }
+ },
+ {
+  "url": "https://www.startupuniverse.ch/api/1.0/de/counters/get/41",
+  "data": {
+   "response": {
+    "data": {
+     "id": 41,
+     "name": "Test2",
+     "msg": "TEL",
+     "slug": "u8",
+     "slug_badi_info": null,
+     "mode": "manual",
+     "max": 100,
+     "bookings_enabled": 0,
+     "closed": 0,
+     "status": 1,
+     "logo": null,
+     "user_id": 6307,
+     "company": null,
+     "counteritems": [
+      {
+       "id": 4285,
+       "val": 4,
+       "ts_created": 1587674684
+      }
+     ],
+     "bookings_active": null
+    }
+   }
+  }
+ },
+ {
+  "url": "https://www.startupuniverse.ch/api/1.0/de/counters/get/42",
+  "data": {
+   "response": {
+    "data": {
+     "id": 42,
+     "name": "onemore",
+     "msg": "tt",
+     "slug": "m9",
+     "slug_badi_info": null,
+     "mode": "manual",
+     "max": 111,
+     "bookings_enabled": 0,
+     "closed": 0,
+     "status": 1,
+     "logo": null,
+     "user_id": 6277,
+     "company": null,
+     "counteritems": [
+      {
+       "id": 4292,
+       "val": 5,
+       "ts_created": 1587677254
+      }
+     ],
+     "bookings_active": null
+    }
+   }
+  }
+ },
+ {
+  "url": "https://www.startupuniverse.ch/api/1.0/de/counters/get/43",
+  "data": {
+   "response": {
+    "data": {
+     "id": 43,
+     "name": "David",
+     "msg": "",
+     "slug": "m5",
+     "slug_badi_info": null,
+     "mode": "manual",
+     "max": 120,
+     "bookings_enabled": 0,
+     "closed": 0,
+     "status": 1,
+     "logo": null,
+     "user_id": 6305,
+     "company": null,
+     "counteritems": [
+      {
+       "id": 4306,
+       "val": 4,
+       "ts_created": 1587712885
+      }
+     ],
+     "bookings_active": null
+    }
+   }
+  }
+ },
+ {
+  "url": "https://www.startupuniverse.ch/api/1.0/de/counters/get/44",
+  "data": {
+   "response": {
+    "data": {
+     "id": 44,
+     "name": "Test-Account",
+     "msg": "+ 41 79 852 85 83",
+     "slug": "m1",
+     "slug_badi_info": null,
+     "mode": "manual",
+     "max": 50,
+     "bookings_enabled": 0,
+     "closed": 0,
+     "status": 1,
+     "logo": null,
+     "user_id": 6306,
+     "company": null,
+     "counteritems": [
+      {
+       "id": 7000,
+       "val": 18,
+       "ts_created": 1588179790
+      }
+     ],
+     "bookings_active": null
+    }
+   }
+  }
+ },
+ {
+  "url": "https://www.startupuniverse.ch/api/1.0/de/counters/get/45",
+  "data": {
+   "response": {
+    "data": {
+     "id": 45,
+     "name": "Migros Ramsen",
+     "msg": "",
+     "slug": "n6",
+     "slug_badi_info": null,
+     "mode": "automatic",
+     "max": 10,
+     "bookings_enabled": 0,
+     "closed": 0,
+     "status": 1,
+     "logo": null,
+     "user_id": 6309,
+     "company": {
+      "id": 1212,
+      "name": "",
+      "address": null,
+      "companytype_id": null
+     },
+     "counteritems": [
+      {
+       "id": 7917,
+       "val": 78,
+       "ts_created": 1588432485
+      }
+     ],
+     "bookings_active": null
+    }
+   }
+  }
+ },
+ {
+  "url": "https://www.startupuniverse.ch/api/1.0/de/counters/get/46",
+  "data": {
+   "response": {
+    "data": {
+     "id": 46,
+     "name": "Petfriends Biel/Bienne",
+     "msg": "espaces libres",
+     "slug": "n1",
+     "slug_badi_info": null,
+     "mode": "manual",
+     "max": 10,
+     "bookings_enabled": 0,
+     "closed": 0,
+     "status": 1,
+     "logo": null,
+     "user_id": 6285,
+     "company": null,
+     "counteritems": [
+      {
+       "id": 6932,
+       "val": 1,
+       "ts_created": 1588155882
+      }
+     ],
+     "bookings_active": null
+    }
+   }
+  }
+ },
+ {
+  "url": "https://www.startupuniverse.ch/api/1.0/de/counters/get/47",
+  "data": {
+   "response": {
+    "data": {
+     "id": 47,
+     "name": "TesRoman",
+     "msg": "tt",
+     "slug": "n2",
+     "slug_badi_info": null,
+     "mode": "manual",
+     "max": 5,
+     "bookings_enabled": 0,
+     "closed": 0,
+     "status": 1,
+     "logo": null,
+     "user_id": 6309,
+     "company": null,
+     "counteritems": [
+      {
+       "id": 7916,
+       "val": 0,
+       "ts_created": 1588431673
+      }
+     ],
+     "bookings_active": null
+    }
+   }
+  }
+ },
+ {
+  "url": "https://www.startupuniverse.ch/api/1.0/de/counters/get/48",
+  "data": {
+   "response": {
+    "data": {
+     "id": 48,
+     "name": "Test",
+     "msg": "0793370827",
+     "slug": "n3",
+     "slug_badi_info": null,
+     "mode": "manual",
+     "max": 3,
+     "bookings_enabled": 0,
+     "closed": 0,
+     "status": 1,
+     "logo": null,
+     "user_id": 6310,
+     "company": null,
+     "counteritems": [
+      {
+       "id": 5319,
+       "val": 6,
+       "ts_created": 1587887244
+      }
+     ],
+     "bookings_active": null
+    }
+   }
+  }
+ },
+ {
+  "url": "https://www.startupuniverse.ch/api/1.0/de/counters/get/52",
+  "data": {
+   "response": {
+    "data": {
+     "id": 52,
+     "name": "KKK",
+     "msg": "tee",
+     "slug": "n4",
+     "slug_badi_info": null,
+     "mode": "manual",
+     "max": 5,
+     "bookings_enabled": 0,
+     "closed": 0,
+     "status": 1,
+     "logo": null,
+     "user_id": 6277,
+     "company": null,
+     "counteritems": [
+      {
+       "id": 7253,
+       "val": 3,
+       "ts_created": 1588193907
+      }
+     ],
+     "bookings_active": null
+    }
+   }
+  }
+ },
+ {
+  "url": "https://www.startupuniverse.ch/api/1.0/de/counters/get/53",
+  "data": {
+   "response": {
+    "data": {
+     "id": 53,
+     "name": "bimbamboum",
+     "msg": "078 783 32 78",
+     "slug": "n5",
+     "slug_badi_info": null,
+     "mode": "manual",
+     "max": 5,
+     "bookings_enabled": 0,
+     "closed": 0,
+     "status": 1,
+     "logo": null,
+     "user_id": 6312,
+     "company": null,
+     "counteritems": [
+      {
+       "id": 6262,
+       "val": 7,
+       "ts_created": 1588080235
+      }
+     ],
+     "bookings_active": null
+    }
+   }
+  }
+ },
+ {
+  "url": "https://www.startupuniverse.ch/api/1.0/de/counters/get/59",
+  "data": {
+   "response": {
+    "data": {
+     "id": 59,
+     "name": "TestNeu",
+     "msg": "",
+     "slug": "n6",
+     "slug_badi_info": null,
+     "mode": "manual",
+     "max": 10,
+     "bookings_enabled": 0,
+     "closed": 0,
+     "status": 1,
+     "logo": null,
+     "user_id": 6313,
+     "company": null,
+     "counteritems": [
+      {
+       "id": 6692,
+       "val": 4,
+       "ts_created": 1588118057
+      }
+     ],
+     "bookings_active": null
+    }
+   }
+  }
+ },
+ {
+  "url": "https://www.startupuniverse.ch/api/1.0/de/counters/get/62",
+  "data": {
+   "response": {
+    "data": {
+     "id": 62,
+     "name": "Migros Fake",
+     "msg": "",
+     "slug": "n8",
+     "slug_badi_info": null,
+     "mode": "manual",
+     "max": 1001,
+     "bookings_enabled": 0,
+     "closed": 0,
+     "status": 1,
+     "logo": null,
+     "user_id": 35,
+     "company": null,
+     "counteritems": [
+      {
+       "id": 12080,
+       "val": 15,
+       "ts_created": 1588805609
+      }
+     ],
+     "bookings_active": null
+    }
+   }
+  }
+ },
+ {
+  "url": "https://www.startupuniverse.ch/api/1.0/de/counters/get/63",
+  "data": {
+   "response": {
+    "data": {
+     "id": 63,
+     "name": "Coop Fake",
+     "msg": "A",
+     "slug": "h8",
+     "slug_badi_info": null,
+     "mode": "manual",
+     "max": 12,
+     "bookings_enabled": 0,
+     "closed": 1,
+     "status": 1,
+     "logo": null,
+     "user_id": 35,
+     "company": {
+      "id": 1205,
+      "name": "CoopFake..223sss",
+      "address": "addr",
+      "companytype_id": 12
+     },
+     "counteritems": [
+      {
+       "id": 69523,
+       "val": 0,
+       "ts_created": 1590453078
+      }
+     ],
+     "bookings_active": null
+    }
+   }
+  }
+ },
+ {
+  "url": "https://www.startupuniverse.ch/api/1.0/de/counters/get/64",
+  "data": {
+   "response": {
+    "data": {
+     "id": 64,
+     "name": "Demo2",
+     "msg": "",
+     "slug": "h7",
+     "slug_badi_info": null,
+     "mode": "automatic",
+     "max": 10,
+     "bookings_enabled": 0,
+     "closed": 0,
+     "status": 1,
+     "logo": null,
+     "user_id": 35,
+     "company": {
+      "id": 1216,
+      "name": "",
+      "address": null,
+      "companytype_id": null
+     },
+     "counteritems": [
+      {
+       "id": 72856,
+       "val": 8,
+       "ts_created": 1590526941
+      }
+     ],
+     "bookings_active": null
+    }
+   }
+  }
+ },
+ {
+  "url": "https://www.startupuniverse.ch/api/1.0/de/counters/get/66",
+  "data": {
+   "response": {
+    "data": {
+     "id": 66,
+     "name": "G&S Fake",
+     "msg": "test",
+     "slug": "h5",
+     "slug_badi_info": null,
+     "mode": "manual",
+     "max": 9,
+     "bookings_enabled": 0,
+     "closed": 1,
+     "status": 1,
+     "logo": null,
+     "user_id": 35,
+     "company": {
+      "id": 1210,
+      "name": "firmasss",
+      "address": "adrasdfsdf",
+      "companytype_id": null
+     },
+     "counteritems": [
+      {
+       "id": 70345,
+       "val": 0,
+       "ts_created": 1590488852
+      }
+     ],
+     "bookings_active": null
+    }
+   }
+  }
+ },
+ {
+  "url": "https://www.startupuniverse.ch/api/1.0/de/counters/get/67",
+  "data": {
+   "response": {
+    "data": {
+     "id": 67,
+     "name": "Aldi Fake...",
+     "msg": "Sch\u00f6ne Pfingsten!",
+     "slug": "h4",
+     "slug_badi_info": null,
+     "mode": "automatic",
+     "max": 10,
+     "bookings_enabled": 1,
+     "closed": 0,
+     "status": 1,
+     "logo": null,
+     "user_id": 35,
+     "company": {
+      "id": 1199,
+      "name": "Firma Aldi",
+      "address": "",
+      "companytype_id": 12
+     },
+     "counteritems": [
+      {
+       "id": 73261,
+       "val": 11,
+       "ts_created": 1590567537
+      }
+     ],
+     "bookings_active": null
+    }
+   }
+  }
+ },
+ {
+  "url": "https://www.startupuniverse.ch/api/1.0/de/counters/get/68",
+  "data": {
+   "response": {
+    "data": {
+     "id": 68,
+     "name": "neu",
+     "msg": "beschr",
+     "slug": "h3",
+     "slug_badi_info": null,
+     "mode": "manual",
+     "max": 10,
+     "bookings_enabled": 0,
+     "closed": 0,
+     "status": 1,
+     "logo": null,
+     "user_id": 6316,
+     "company": null,
+     "counteritems": [
+      {
+       "id": 7447,
+       "val": 2,
+       "ts_created": 1588333686
+      }
+     ],
+     "bookings_active": null
+    }
+   }
+  }
+ },
+ {
+  "url": "https://www.startupuniverse.ch/api/1.0/de/counters/get/69",
+  "data": {
+   "response": {
+    "data": {
+     "id": 69,
+     "name": "DemoCounter",
+     "msg": "",
+     "slug": "c5eaf40c96c221",
+     "slug_badi_info": null,
+     "mode": "automatic",
+     "max": 100,
+     "bookings_enabled": 0,
+     "closed": 0,
+     "status": 1,
+     "logo": null,
+     "user_id": 35,
+     "company": {
+      "id": 1211,
+      "name": "DemoCompany",
+      "address": "",
+      "companytype_id": null
+     },
+     "counteritems": [
+      {
+       "id": 71849,
+       "val": 5,
+       "ts_created": 1590504106
+      }
+     ],
+     "bookings_active": null
+    }
+   }
+  }
+ },
+ {
+  "url": "https://www.startupuniverse.ch/api/1.0/de/counters/get/70",
+  "data": {
+   "response": {
+    "data": {
+     "id": 70,
+     "name": "SV Restaurant Riverside",
+     "msg": "SV Restaurant Riverside",
+     "slug": "c5eafa5a51179e",
+     "slug_badi_info": null,
+     "mode": "manual",
+     "max": 10,
+     "bookings_enabled": 0,
+     "closed": 0,
+     "status": 1,
+     "logo": null,
+     "user_id": 6315,
+     "company": null,
+     "counteritems": [
+      {
+       "id": 9057,
+       "val": 1,
+       "ts_created": 1588569554
+      }
+     ],
+     "bookings_active": null
+    }
+   }
+  }
+ },
+ {
+  "url": "https://www.startupuniverse.ch/api/1.0/de/counters/get/71",
+  "data": {
+   "response": {
+    "data": {
+     "id": 71,
+     "name": "Hallenbad City Z\u00fcrich",
+     "msg": "",
+     "slug": "c5eb19118e5824",
+     "slug_badi_info": "https://www.badi-info.ch/city.html",
+     "mode": "manual",
+     "max": 30,
+     "bookings_enabled": 0,
+     "closed": 0,
+     "status": 1,
+     "logo": null,
+     "user_id": 6317,
+     "company": {
+      "id": 1265,
+      "name": null,
+      "address": null,
+      "companytype_id": 9
+     },
+     "counteritems": [
+      {
+       "id": 73247,
+       "val": 30,
+       "ts_created": 1590567238
+      }
+     ],
+     "bookings_active": null
+    }
+   }
+  }
+ },
+ {
+  "url": "https://www.startupuniverse.ch/api/1.0/de/counters/get/72",
+  "data": {
+   "response": {
+    "data": {
+     "id": 72,
+     "name": "Freibad Letzigraben",
+     "msg": "",
+     "slug": "c5eb1917e9eedc",
+     "slug_badi_info": null,
+     "mode": "manual",
+     "max": 150,
+     "bookings_enabled": 0,
+     "closed": 1,
+     "status": 1,
+     "logo": null,
+     "user_id": 6317,
+     "company": {
+      "id": 1266,
+      "name": null,
+      "address": null,
+      "companytype_id": 9
+     },
+     "counteritems": [
+      {
+       "id": 12224,
+       "val": 1,
+       "ts_created": 1588828817
+      }
+     ],
+     "bookings_active": null
+    }
+   }
+  }
+ },
+ {
+  "url": "https://www.startupuniverse.ch/api/1.0/de/counters/get/77",
+  "data": {
+   "response": {
+    "data": {
+     "id": 77,
+     "name": "Testz\u00e4hler Sportamt",
+     "msg": "Besuche im Testhallenbad",
+     "slug": "c5eb2fe4c4bf3d",
+     "slug_badi_info": null,
+     "mode": "manual",
+     "max": 20,
+     "bookings_enabled": 0,
+     "closed": 0,
+     "status": 1,
+     "logo": null,
+     "user_id": 6317,
+     "company": {
+      "id": 1209,
+      "name": "Stadt Z\u00fcrich, Sportamt, Abteilung Badeanlagen",
+      "address": "T\u00f6distrasse 48, 8002 Z\u00fcrich",
+      "companytype_id": 9
+     },
+     "counteritems": [
+      {
+       "id": 71225,
+       "val": 1,
+       "ts_created": 1590497930
+      }
+     ],
+     "bookings_active": null
+    }
+   }
+  }
+ },
+ {
+  "url": "https://www.startupuniverse.ch/api/1.0/de/counters/get/78",
+  "data": {
+   "response": {
+    "data": {
+     "id": 78,
+     "name": "Stadtbibliothek",
+     "msg": "",
+     "slug": "c5eb4f54a97426",
+     "slug_badi_info": null,
+     "mode": "automatic",
+     "max": 10,
+     "bookings_enabled": 0,
+     "closed": 0,
+     "status": 1,
+     "logo": null,
+     "user_id": 6319,
+     "company": {
+      "id": 1213,
+      "name": "Stadt Baden",
+      "address": "Rathausgasse 1, 5400 Baden",
+      "companytype_id": null
+     },
+     "counteritems": [
+      {
+       "id": 12670,
+       "val": 0,
+       "ts_created": 1588917594
+      }
+     ],
+     "bookings_active": null
+    }
+   }
+  }
+ },
+ {
+  "url": "https://www.startupuniverse.ch/api/1.0/de/counters/get/79",
+  "data": {
+   "response": {
+    "data": {
+     "id": 79,
+     "name": "Filiale SG",
+     "msg": "",
+     "slug": "c5eb516fcbc35d",
+     "slug_badi_info": null,
+     "mode": "automatic",
+     "max": 20,
+     "bookings_enabled": 0,
+     "closed": 0,
+     "status": 1,
+     "logo": null,
+     "user_id": 6318,
+     "company": {
+      "id": 1214,
+      "name": "Digitec Galaxus AG",
+      "address": "Rorschacherstrasse 152-154",
+      "companytype_id": 12
+     },
+     "counteritems": [
+      {
+       "id": 73266,
+       "val": 2,
+       "ts_created": 1590567597
+      }
+     ],
+     "bookings_active": null
+    }
+   }
+  }
+ },
+ {
+  "url": "https://www.startupuniverse.ch/api/1.0/de/counters/get/80",
+  "data": {
+   "response": {
+    "data": {
+     "id": 80,
+     "name": "Strandbad Uster Fake",
+     "msg": "",
+     "slug": "c5eb517691db88",
+     "slug_badi_info": "",
+     "mode": "manual",
+     "max": 1000,
+     "bookings_enabled": 0,
+     "closed": 0,
+     "status": 1,
+     "logo": null,
+     "user_id": 35,
+     "company": {
+      "id": 1215,
+      "name": "Fim",
+      "address": "Adr",
+      "companytype_id": 9
+     },
+     "counteritems": [
+      {
+       "id": 12756,
+       "val": 2,
+       "ts_created": 1588926316
+      }
+     ],
+     "bookings_active": null
+    }
+   }
+  }
+ },
+ {
+  "url": "https://www.startupuniverse.ch/api/1.0/de/counters/get/81",
+  "data": {
+   "response": {
+    "data": {
+     "id": 81,
+     "name": "EG- Elektro",
+     "msg": "",
+     "slug": "c5eb5930f681ab",
+     "slug_badi_info": null,
+     "mode": "manual",
+     "max": 10,
+     "bookings_enabled": 0,
+     "closed": 0,
+     "status": 1,
+     "logo": null,
+     "user_id": 6323,
+     "company": {
+      "id": 1218,
+      "name": "Fust Center Eschenmoser ",
+      "address": "Birmensdorferstrasse 20",
+      "companytype_id": null
+     },
+     "counteritems": [
+      {
+       "id": 13382,
+       "val": 31,
+       "ts_created": 1588958049
+      }
+     ],
+     "bookings_active": null
+    }
+   }
+  }
+ },
+ {
+  "url": "https://www.startupuniverse.ch/api/1.0/de/counters/get/82",
+  "data": {
+   "response": {
+    "data": {
+     "id": 82,
+     "name": "test",
+     "msg": "",
+     "slug": "c5eb5aba12f5e5",
+     "slug_badi_info": null,
+     "mode": "manual",
+     "max": 22,
+     "bookings_enabled": 0,
+     "closed": 0,
+     "status": 1,
+     "logo": null,
+     "user_id": 34,
+     "company": {
+      "id": 1220,
+      "name": "",
+      "address": null,
+      "companytype_id": null
+     },
+     "counteritems": [
+      {
+       "id": 13552,
+       "val": 2,
+       "ts_created": 1588967182
+      }
+     ],
+     "bookings_active": null
+    }
+   }
+  }
+ },
+ {
+  "url": "https://www.startupuniverse.ch/api/1.0/de/counters/get/84",
+  "data": {
+   "response": {
+    "data": {
+     "id": 84,
+     "name": "Bruno Lickel",
+     "msg": "Test",
+     "slug": "c5eb692ed541bd",
+     "slug_badi_info": null,
+     "mode": "automatic",
+     "max": 10,
+     "bookings_enabled": 0,
+     "closed": 0,
+     "status": 1,
+     "logo": null,
+     "user_id": 6329,
+     "company": {
+      "id": 1222,
+      "name": "EVIS AG",
+      "address": "H\u00f6lzliwisenstrasse 5",
+      "companytype_id": null
+     },
+     "counteritems": [
+      {
+       "id": 14259,
+       "val": 0,
+       "ts_created": 1589049295
+      }
+     ],
+     "bookings_active": null
+    }
+   }
+  }
+ },
+ {
+  "url": "https://www.startupuniverse.ch/api/1.0/de/counters/get/85",
+  "data": {
+   "response": {
+    "data": {
+     "id": 85,
+     "name": "Brack Hauptsitz",
+     "msg": "",
+     "slug": "c5eb7e43b7b0c0",
+     "slug_badi_info": null,
+     "mode": "manual",
+     "max": 10,
+     "bookings_enabled": 0,
+     "closed": 0,
+     "status": 1,
+     "logo": null,
+     "user_id": 6332,
+     "company": {
+      "id": 1223,
+      "name": "Brack AG",
+      "address": null,
+      "companytype_id": 12
+     },
+     "counteritems": [],
+     "bookings_active": null
+    }
+   }
+  }
+ },
+ {
+  "url": "https://www.startupuniverse.ch/api/1.0/de/counters/get/88",
+  "data": {
+   "response": {
+    "data": {
+     "id": 88,
+     "name": "Testz\u00e4hler",
+     "msg": "",
+     "slug": "c5eb9730040103",
+     "slug_badi_info": null,
+     "mode": "automatic",
+     "max": 10,
+     "bookings_enabled": 0,
+     "closed": 0,
+     "status": 1,
+     "logo": null,
+     "user_id": 6341,
+     "company": {
+      "id": 1226,
+      "name": "",
+      "address": null,
+      "companytype_id": null
+     },
+     "counteritems": [],
+     "bookings_active": null
+    }
+   }
+  }
+ },
+ {
+  "url": "https://www.startupuniverse.ch/api/1.0/de/counters/get/101",
+  "data": {
+   "response": {
+    "data": {
+     "id": 101,
+     "name": "XA",
+     "msg": "",
+     "slug": "c5eba39a4757c3",
+     "slug_badi_info": null,
+     "mode": "automatic",
+     "max": 10,
+     "bookings_enabled": 0,
+     "closed": 0,
+     "status": 1,
+     "logo": null,
+     "user_id": 6345,
+     "company": {
+      "id": 1239,
+      "name": "Nix",
+      "address": "",
+      "companytype_id": null
+     },
+     "counteritems": [
+      {
+       "id": 15118,
+       "val": 0,
+       "ts_created": 1589262766
+      }
+     ],
+     "bookings_active": null
+    }
+   }
+  }
+ },
+ {
+  "url": "https://www.startupuniverse.ch/api/1.0/de/counters/get/103",
+  "data": {
+   "response": {
+    "data": {
+     "id": 103,
+     "name": "test",
+     "msg": "",
+     "slug": "c5eba626fe22cf",
+     "slug_badi_info": null,
+     "mode": "automatic",
+     "max": 10,
+     "bookings_enabled": 0,
+     "closed": 0,
+     "status": 1,
+     "logo": null,
+     "user_id": 6344,
+     "company": {
+      "id": 1241,
+      "name": null,
+      "address": null,
+      "companytype_id": null
+     },
+     "counteritems": [
+      {
+       "id": 16359,
+       "val": 0,
+       "ts_created": 1589382680
+      }
+     ],
+     "bookings_active": null
+    }
+   }
+  }
+ },
+ {
+  "url": "https://www.startupuniverse.ch/api/1.0/de/counters/get/104",
+  "data": {
+   "response": {
+    "data": {
+     "id": 104,
+     "name": "P\u00fcnktli",
+     "msg": "",
+     "slug": "c5eba690b8bc57",
+     "slug_badi_info": null,
+     "mode": "automatic",
+     "max": 110,
+     "bookings_enabled": 0,
+     "closed": 0,
+     "status": 1,
+     "logo": null,
+     "user_id": 6346,
+     "company": {
+      "id": 1242,
+      "name": "Dotty Whale",
+      "address": null,
+      "companytype_id": 9
+     },
+     "counteritems": [],
+     "bookings_active": null
+    }
+   }
+  }
+ },
+ {
+  "url": "https://www.startupuniverse.ch/api/1.0/de/counters/get/105",
+  "data": {
+   "response": {
+    "data": {
+     "id": 105,
+     "name": "Store",
+     "msg": "",
+     "slug": "c5eba6f29e45c9",
+     "slug_badi_info": null,
+     "mode": "automatic",
+     "max": 10,
+     "bookings_enabled": 0,
+     "closed": 0,
+     "status": 1,
+     "logo": null,
+     "user_id": 6347,
+     "company": {
+      "id": 1243,
+      "name": null,
+      "address": null,
+      "companytype_id": null
+     },
+     "counteritems": [
+      {
+       "id": 16550,
+       "val": 7,
+       "ts_created": 1589401749
+      }
+     ],
+     "bookings_active": null
+    }
+   }
+  }
+ },
+ {
+  "url": "https://www.startupuniverse.ch/api/1.0/de/counters/get/106",
+  "data": {
+   "response": {
+    "data": {
+     "id": 106,
+     "name": "New",
+     "msg": "",
+     "slug": "c5ebaf6eb119ae",
+     "slug_badi_info": null,
+     "mode": "automatic",
+     "max": 10,
+     "bookings_enabled": 0,
+     "closed": 0,
+     "status": 1,
+     "logo": null,
+     "user_id": 6348,
+     "company": {
+      "id": 1244,
+      "name": null,
+      "address": null,
+      "companytype_id": null
+     },
+     "counteritems": [
+      {
+       "id": 15823,
+       "val": 1,
+       "ts_created": 1589311237
+      }
+     ],
+     "bookings_active": null
+    }
+   }
+  }
+ },
+ {
+  "url": "https://www.startupuniverse.ch/api/1.0/de/counters/get/107",
+  "data": {
+   "response": {
+    "data": {
+     "id": 107,
+     "name": "humanheroes\u00ae - master your challenge \ud83d\ude80",
+     "msg": "humanheroes\u00ae - master your challenge \ud83d\ude80",
+     "slug": "c5ebb8b0e29980",
+     "slug_badi_info": null,
+     "mode": "manual",
+     "max": 10,
+     "bookings_enabled": 0,
+     "closed": 0,
+     "status": 1,
+     "logo": null,
+     "user_id": 6349,
+     "company": {
+      "id": 1245,
+      "name": null,
+      "address": null,
+      "companytype_id": 11
+     },
+     "counteritems": [
+      {
+       "id": 16018,
+       "val": 0,
+       "ts_created": 1589350313
+      }
+     ],
+     "bookings_active": null
+    }
+   }
+  }
+ },
+ {
+  "url": "https://www.startupuniverse.ch/api/1.0/de/counters/get/108",
+  "data": {
+   "response": {
+    "data": {
+     "id": 108,
+     "name": "Test",
+     "msg": "Hallo Test Laden",
+     "slug": "c5ebbb56b1b35b",
+     "slug_badi_info": null,
+     "mode": "automatic",
+     "max": 10,
+     "bookings_enabled": 0,
+     "closed": 0,
+     "status": 1,
+     "logo": null,
+     "user_id": 6350,
+     "company": {
+      "id": 1246,
+      "name": null,
+      "address": null,
+      "companytype_id": null
+     },
+     "counteritems": [
+      {
+       "id": 18127,
+       "val": 7,
+       "ts_created": 1589466140
+      }
+     ],
+     "bookings_active": null
+    }
+   }
+  }
+ },
+ {
+  "url": "https://www.startupuniverse.ch/api/1.0/de/counters/get/109",
+  "data": {
+   "response": {
+    "data": {
+     "id": 109,
+     "name": "Z\u00e4hler 1",
+     "msg": "Bucher HIFI AG",
+     "slug": "c5ebbc5e8dc53d",
+     "slug_badi_info": null,
+     "mode": "automatic",
+     "max": 10,
+     "bookings_enabled": 0,
+     "closed": 0,
+     "status": 1,
+     "logo": null,
+     "user_id": 6351,
+     "company": {
+      "id": 1247,
+      "name": "Bucher HIFI AG",
+      "address": "Bucher HIFI AG",
+      "companytype_id": null
+     },
+     "counteritems": [],
+     "bookings_active": null
+    }
+   }
+  }
+ },
+ {
+  "url": "https://www.startupuniverse.ch/api/1.0/de/counters/get/110",
+  "data": {
+   "response": {
+    "data": {
+     "id": 110,
+     "name": "Test",
+     "msg": "Personen",
+     "slug": "c5ebbce32d8a0b",
+     "slug_badi_info": null,
+     "mode": "automatic",
+     "max": 4,
+     "bookings_enabled": 0,
+     "closed": 0,
+     "status": 1,
+     "logo": null,
+     "user_id": 6352,
+     "company": {
+      "id": 1248,
+      "name": null,
+      "address": null,
+      "companytype_id": 12
+     },
+     "counteritems": [
+      {
+       "id": 67558,
+       "val": 2,
+       "ts_created": 1590404153
+      }
+     ],
+     "bookings_active": null
+    }
+   }
+  }
+ },
+ {
+  "url": "https://www.startupuniverse.ch/api/1.0/de/counters/get/111",
+  "data": {
+   "response": {
+    "data": {
+     "id": 111,
+     "name": "Eingang Gesch\u00e4ft",
+     "msg": "",
+     "slug": "c5ebbfa35a3fc9",
+     "slug_badi_info": null,
+     "mode": "automatic",
+     "max": 10,
+     "bookings_enabled": 0,
+     "closed": 0,
+     "status": 1,
+     "logo": null,
+     "user_id": 6354,
+     "company": {
+      "id": 1249,
+      "name": "Rotech GmbH",
+      "address": "",
+      "companytype_id": 11
+     },
+     "counteritems": [
+      {
+       "id": 16263,
+       "val": 1,
+       "ts_created": 1589378257
+      }
+     ],
+     "bookings_active": null
+    }
+   }
+  }
+ },
+ {
+  "url": "https://www.startupuniverse.ch/api/1.0/de/counters/get/112",
+  "data": {
+   "response": {
+    "data": {
+     "id": 112,
+     "name": "Wochenmarkt oberer Graben (Holzmarkt)  ",
+     "msg": "",
+     "slug": "c5ebc10b9cbb21",
+     "slug_badi_info": null,
+     "mode": "manual",
+     "max": 135,
+     "bookings_enabled": 0,
+     "closed": 1,
+     "status": 1,
+     "logo": null,
+     "user_id": 6355,
+     "company": {
+      "id": 1250,
+      "name": null,
+      "address": null,
+      "companytype_id": null
+     },
+     "counteritems": [
+      {
+       "id": 70322,
+       "val": 0,
+       "ts_created": 1590488778
+      }
+     ],
+     "bookings_active": null
+    }
+   }
+  }
+ },
+ {
+  "url": "https://www.startupuniverse.ch/api/1.0/de/counters/get/113",
+  "data": {
+   "response": {
+    "data": {
+     "id": 113,
+     "name": "Wochenmarkt Schlossplatz",
+     "msg": "",
+     "slug": "c5ebc10f08d6a2",
+     "slug_badi_info": null,
+     "mode": "manual",
+     "max": 100,
+     "bookings_enabled": 0,
+     "closed": 1,
+     "status": 1,
+     "logo": null,
+     "user_id": 6355,
+     "company": {
+      "id": 1251,
+      "name": null,
+      "address": null,
+      "companytype_id": null
+     },
+     "counteritems": [
+      {
+       "id": 70323,
+       "val": 0,
+       "ts_created": 1590488780
+      }
+     ],
+     "bookings_active": null
+    }
+   }
+  }
+ },
+ {
+  "url": "https://www.startupuniverse.ch/api/1.0/de/counters/get/114",
+  "data": {
+   "response": {
+    "data": {
+     "id": 114,
+     "name": "Wochenmarkt Laurenzenvorstadt",
+     "msg": "",
+     "slug": "c5ebc1116e9468",
+     "slug_badi_info": null,
+     "mode": "manual",
+     "max": 110,
+     "bookings_enabled": 0,
+     "closed": 1,
+     "status": 1,
+     "logo": null,
+     "user_id": 6355,
+     "company": {
+      "id": 1252,
+      "name": null,
+      "address": null,
+      "companytype_id": null
+     },
+     "counteritems": [
+      {
+       "id": 70321,
+       "val": 0,
+       "ts_created": 1590488776
+      }
+     ],
+     "bookings_active": null
+    }
+   }
+  }
+ },
+ {
+  "url": "https://www.startupuniverse.ch/api/1.0/de/counters/get/115",
+  "data": {
+   "response": {
+    "data": {
+     "id": 115,
+     "name": "Wochenmarkt unterer Graben (Schlossplatz) ",
+     "msg": "",
+     "slug": "c5ebc11807b29e",
+     "slug_badi_info": "",
+     "mode": "manual",
+     "max": 185,
+     "bookings_enabled": 0,
+     "closed": 1,
+     "status": 1,
+     "logo": null,
+     "user_id": 6355,
+     "company": {
+      "id": 1253,
+      "name": null,
+      "address": null,
+      "companytype_id": 8
+     },
+     "counteritems": [
+      {
+       "id": 70325,
+       "val": 0,
+       "ts_created": 1590488782
+      }
+     ],
+     "bookings_active": null
+    }
+   }
+  }
+ },
+ {
+  "url": "https://www.startupuniverse.ch/api/1.0/de/counters/get/116",
+  "data": {
+   "response": {
+    "data": {
+     "id": 116,
+     "name": "Schaefer AG",
+     "msg": "",
+     "slug": "c5ebc1de781992",
+     "slug_badi_info": null,
+     "mode": "automatic",
+     "max": 3,
+     "bookings_enabled": 0,
+     "closed": 0,
+     "status": 1,
+     "logo": null,
+     "user_id": 6356,
+     "company": {
+      "id": 1254,
+      "name": null,
+      "address": null,
+      "companytype_id": null
+     },
+     "counteritems": [
+      {
+       "id": 17761,
+       "val": 0,
+       "ts_created": 1589447793
+      }
+     ],
+     "bookings_active": null
+    }
+   }
+  }
+ },
+ {
+  "url": "https://www.startupuniverse.ch/api/1.0/de/counters/get/117",
+  "data": {
+   "response": {
+    "data": {
+     "id": 117,
+     "name": "Freibad-Zutritt",
+     "msg": "Zugang zum Freibad",
+     "slug": "c5ebcf674c475c",
+     "slug_badi_info": null,
+     "mode": "manual",
+     "max": 10,
+     "bookings_enabled": 0,
+     "closed": 0,
+     "status": 1,
+     "logo": null,
+     "user_id": 6357,
+     "company": {
+      "id": 1255,
+      "name": "Sportanlagen Gesa, Freibad",
+      "address": "Tobelbachstrasse 6, 9450 Altst\u00e4tten",
+      "companytype_id": 9
+     },
+     "counteritems": [
+      {
+       "id": 17680,
+       "val": 4,
+       "ts_created": 1589442268
+      }
+     ],
+     "bookings_active": null
+    }
+   }
+  }
+ },
+ {
+  "url": "https://www.startupuniverse.ch/api/1.0/de/counters/get/118",
+  "data": {
+   "response": {
+    "data": {
+     "id": 118,
+     "name": "dummy",
+     "msg": "bla",
+     "slug": "c5ebd19d823ca3",
+     "slug_badi_info": null,
+     "mode": "manual",
+     "max": 5,
+     "bookings_enabled": 0,
+     "closed": 0,
+     "status": 1,
+     "logo": null,
+     "user_id": 6358,
+     "company": {
+      "id": 1256,
+      "name": "dummy corp",
+      "address": null,
+      "companytype_id": null
+     },
+     "counteritems": [],
+     "bookings_active": null
+    }
+   }
+  }
+ },
+ {
+  "url": "https://www.startupuniverse.ch/api/1.0/de/counters/get/119",
+  "data": {
+   "response": {
+    "data": {
+     "id": 119,
+     "name": "test",
+     "msg": "",
+     "slug": "c5ebd97ad9356c",
+     "slug_badi_info": null,
+     "mode": "manual",
+     "max": 10,
+     "bookings_enabled": 0,
+     "closed": 0,
+     "status": 1,
+     "logo": null,
+     "user_id": 6359,
+     "company": {
+      "id": 1257,
+      "name": "test",
+      "address": "test",
+      "companytype_id": null
+     },
+     "counteritems": [
+      {
+       "id": 18727,
+       "val": 0,
+       "ts_created": 1589492949
+      }
+     ],
+     "bookings_active": null
+    }
+   }
+  }
+ },
+ {
+  "url": "https://www.startupuniverse.ch/api/1.0/de/counters/get/120",
+  "data": {
+   "response": {
+    "data": {
+     "id": 120,
+     "name": "twe",
+     "msg": "ree",
+     "slug": "c5ebdb47a522fe",
+     "slug_badi_info": null,
+     "mode": "automatic",
+     "max": 10,
+     "bookings_enabled": 0,
+     "closed": 0,
+     "status": 1,
+     "logo": null,
+     "user_id": 6360,
+     "company": {
+      "id": 1258,
+      "name": "eeee",
+      "address": "eeee",
+      "companytype_id": null
+     },
+     "counteritems": [],
+     "bookings_active": null
+    }
+   }
+  }
+ },
+ {
+  "url": "https://www.startupuniverse.ch/api/1.0/de/counters/get/121",
+  "data": {
+   "response": {
+    "data": {
+     "id": 121,
+     "name": "sadasd",
+     "msg": "",
+     "slug": "c5ebe6117503b9",
+     "slug_badi_info": null,
+     "mode": "automatic",
+     "max": 10,
+     "bookings_enabled": 0,
+     "closed": 0,
+     "status": 1,
+     "logo": null,
+     "user_id": 6362,
+     "company": {
+      "id": 1259,
+      "name": null,
+      "address": null,
+      "companytype_id": null
+     },
+     "counteritems": [
+      {
+       "id": 21088,
+       "val": 5,
+       "ts_created": 1589559489
+      }
+     ],
+     "bookings_active": null
+    }
+   }
+  }
+ },
+ {
+  "url": "https://www.startupuniverse.ch/api/1.0/de/counters/get/122",
+  "data": {
+   "response": {
+    "data": {
+     "id": 122,
+     "name": "Hallenbad",
+     "msg": "",
+     "slug": "c5ebe6e28d4131",
+     "slug_badi_info": "https://www.badi-info.ch/zh/uster-hallenbad.html",
+     "mode": "automatic",
+     "max": 1000,
+     "bookings_enabled": 0,
+     "closed": 1,
+     "status": 1,
+     "logo": null,
+     "user_id": 6363,
+     "company": {
+      "id": 1260,
+      "name": "Stadt Uster",
+      "address": "Hallenbad Uster",
+      "companytype_id": 9
+     },
+     "counteritems": [
+      {
+       "id": 69420,
+       "val": 0,
+       "ts_created": 1590444337
+      }
+     ],
+     "bookings_active": null
+    }
+   }
+  }
+ },
+ {
+  "url": "https://www.startupuniverse.ch/api/1.0/de/counters/get/123",
+  "data": {
+   "response": {
+    "data": {
+     "id": 123,
+     "name": "Signal AG",
+     "msg": "",
+     "slug": "c5ebe9218e21eb",
+     "slug_badi_info": null,
+     "mode": "automatic",
+     "max": 10,
+     "bookings_enabled": 0,
+     "closed": 0,
+     "status": 1,
+     "logo": null,
+     "user_id": 6364,
+     "company": {
+      "id": 1261,
+      "name": null,
+      "address": null,
+      "companytype_id": null
+     },
+     "counteritems": [
+      {
+       "id": 38590,
+       "val": 6,
+       "ts_created": 1589865857
+      }
+     ],
+     "bookings_active": null
+    }
+   }
+  }
+ },
+ {
+  "url": "https://www.startupuniverse.ch/api/1.0/de/counters/get/124",
+  "data": {
+   "response": {
+    "data": {
+     "id": 124,
+     "name": "Test",
+     "msg": "",
+     "slug": "c5ebea84aa6e20",
+     "slug_badi_info": null,
+     "mode": "automatic",
+     "max": 5,
+     "bookings_enabled": 0,
+     "closed": 0,
+     "status": 1,
+     "logo": null,
+     "user_id": 6365,
+     "company": {
+      "id": 1262,
+      "name": null,
+      "address": null,
+      "companytype_id": null
+     },
+     "counteritems": [
+      {
+       "id": 20752,
+       "val": 1,
+       "ts_created": 1589553363
+      }
+     ],
+     "bookings_active": null
+    }
+   }
+  }
+ },
+ {
+  "url": "https://www.startupuniverse.ch/api/1.0/de/counters/get/125",
+  "data": {
+   "response": {
+    "data": {
+     "id": 125,
+     "name": "Evis Test",
+     "msg": "",
+     "slug": "c5ebfe049532a0",
+     "slug_badi_info": null,
+     "mode": "automatic",
+     "max": 100,
+     "bookings_enabled": 0,
+     "closed": 0,
+     "status": 1,
+     "logo": null,
+     "user_id": 6367,
+     "company": {
+      "id": 1263,
+      "name": "Firma",
+      "address": null,
+      "companytype_id": null
+     },
+     "counteritems": [],
+     "bookings_active": null
+    }
+   }
+  }
+ },
+ {
+  "url": "https://www.startupuniverse.ch/api/1.0/de/counters/get/126",
+  "data": {
+   "response": {
+    "data": {
+     "id": 126,
+     "name": "Fitness-& Gesundheitscenter Ambiente",
+     "msg": "Fitness-& Gesundheitscenter Ambiente",
+     "slug": "c5ebfe132ba866",
+     "slug_badi_info": null,
+     "mode": "automatic",
+     "max": 10,
+     "bookings_enabled": 0,
+     "closed": 0,
+     "status": 1,
+     "logo": null,
+     "user_id": 6368,
+     "company": {
+      "id": 1264,
+      "name": "Fitness-& Gesundheitscenter Ambiente",
+      "address": "Bernstrasse 22",
+      "companytype_id": null
+     },
+     "counteritems": [],
+     "bookings_active": null
+    }
+   }
+  }
+ },
+ {
+  "url": "https://www.startupuniverse.ch/api/1.0/de/counters/get/127",
+  "data": {
+   "response": {
+    "data": {
+     "id": 127,
+     "name": "Freibad & Hallenbad Fohrbach Zollikon",
+     "msg": "",
+     "slug": "c5ec2868026e1b",
+     "slug_badi_info": "https://www.badi-info.ch/zh/zollikon-fohrbach.html",
+     "mode": "manual",
+     "max": 1000,
+     "bookings_enabled": 0,
+     "closed": 0,
+     "status": 1,
+     "logo": null,
+     "user_id": 6376,
+     "company": {
+      "id": 1267,
+      "name": null,
+      "address": null,
+      "companytype_id": null
+     },
+     "counteritems": [],
+     "bookings_active": null
+    }
+   }
+  }
+ },
+ {
+  "url": "https://www.startupuniverse.ch/api/1.0/de/counters/get/128",
+  "data": {
+   "response": {
+    "data": {
+     "id": 128,
+     "name": "Seebad Zollikon",
+     "msg": "",
+     "slug": "c5ec286f8eb3d4",
+     "slug_badi_info": "https://www.badi-info.ch/zh/zollikon-seebad.html",
+     "mode": "manual",
+     "max": 500,
+     "bookings_enabled": 0,
+     "closed": 0,
+     "status": 1,
+     "logo": null,
+     "user_id": 6376,
+     "company": {
+      "id": 1268,
+      "name": null,
+      "address": null,
+      "companytype_id": null
+     },
+     "counteritems": [],
+     "bookings_active": null
+    }
+   }
+  }
+ },
+ {
+  "url": "https://www.startupuniverse.ch/api/1.0/de/counters/get/130",
+  "data": {
+   "response": {
+    "data": {
+     "id": 130,
+     "name": "service informatique",
+     "msg": "Bienvenue \u00e0 la piscine de Del\u00e9mont",
+     "slug": "c5ec3d44364ca1",
+     "slug_badi_info": null,
+     "mode": "automatic",
+     "max": 3,
+     "bookings_enabled": 0,
+     "closed": 0,
+     "status": 1,
+     "logo": null,
+     "user_id": 6380,
+     "company": {
+      "id": 1270,
+      "name": "Ville de Delemont",
+      "address": "Place de la Libert\u00e9 1, 2800 Del\u00e9mont",
+      "companytype_id": 9
+     },
+     "counteritems": [
+      {
+       "id": 41143,
+       "val": 1,
+       "ts_created": 1589967553
+      }
+     ],
+     "bookings_active": null
+    }
+   }
+  }
+ },
+ {
+  "url": "https://www.startupuniverse.ch/api/1.0/de/counters/get/131",
+  "data": {
+   "response": {
+    "data": {
+     "id": 131,
+     "name": "Freibad Widnau",
+     "msg": "Aegetenstrass 70, 9443 Windau",
+     "slug": "c5ec3f7482a06e",
+     "slug_badi_info": null,
+     "mode": "automatic",
+     "max": 10,
+     "bookings_enabled": 0,
+     "closed": 0,
+     "status": 1,
+     "logo": null,
+     "user_id": 6381,
+     "company": {
+      "id": 1271,
+      "name": "Freibad Widnau",
+      "address": "Aegetenstrass 70",
+      "companytype_id": 9
+     },
+     "counteritems": [
+      {
+       "id": 43364,
+       "val": 5,
+       "ts_created": 1590088695
+      }
+     ],
+     "bookings_active": null
+    }
+   }
+  }
+ },
+ {
+  "url": "https://www.startupuniverse.ch/api/1.0/de/counters/get/132",
+  "data": {
+   "response": {
+    "data": {
+     "id": 132,
+     "name": "Badi Test",
+     "msg": "EIne Garantie f\u00fcr den Einlass besteht (noch) nicht!",
+     "slug": "c5ec4b50313abd",
+     "slug_badi_info": null,
+     "mode": "manual",
+     "max": 10,
+     "bookings_enabled": 0,
+     "closed": 0,
+     "status": 1,
+     "logo": null,
+     "user_id": 6382,
+     "company": {
+      "id": 1272,
+      "name": "Gemeinde Breitenbach",
+      "address": null,
+      "companytype_id": null
+     },
+     "counteritems": [
+      {
+       "id": 42269,
+       "val": 4,
+       "ts_created": 1589983575
+      }
+     ],
+     "bookings_active": null
+    }
+   }
+  }
+ },
+ {
+  "url": "https://www.startupuniverse.ch/api/1.0/de/counters/get/133",
+  "data": {
+   "response": {
+    "data": {
+     "id": 133,
+     "name": "SBM Test",
+     "msg": "Eintrittskontrolle",
+     "slug": "c5ec4c85b1cf4f",
+     "slug_badi_info": null,
+     "mode": "manual",
+     "max": 10,
+     "bookings_enabled": 0,
+     "closed": 0,
+     "status": 1,
+     "logo": null,
+     "user_id": 6383,
+     "company": {
+      "id": 1273,
+      "name": null,
+      "address": null,
+      "companytype_id": null
+     },
+     "counteritems": [
+      {
+       "id": 40461,
+       "val": 5,
+       "ts_created": 1589954731
+      }
+     ],
+     "bookings_active": null
+    }
+   }
+  }
+ },
+ {
+  "url": "https://www.startupuniverse.ch/api/1.0/de/counters/get/134",
+  "data": {
+   "response": {
+    "data": {
+     "id": 134,
+     "name": "Digitec Store Z\u00fcrich",
+     "msg": "Herzlich Willkommen im Digitec Shop Z\u00fcrich. Ziehen Sie ein Ticket und halten Sie sich bitte an die Abstandsregeln.",
+     "slug": "c5ec4e88e6b063",
+     "slug_badi_info": null,
+     "mode": "automatic",
+     "max": 25,
+     "bookings_enabled": 0,
+     "closed": 0,
+     "status": 1,
+     "logo": null,
+     "user_id": 6384,
+     "company": {
+      "id": 1274,
+      "name": "Digitec Galaxus Z\u00fcrich",
+      "address": "Pfingstweistrasse 60b",
+      "companytype_id": 12
+     },
+     "counteritems": [
+      {
+       "id": 73265,
+       "val": 0,
+       "ts_created": 1590567591
+      }
+     ],
+     "bookings_active": null
+    }
+   }
+  }
+ },
+ {
+  "url": "https://www.startupuniverse.ch/api/1.0/de/counters/get/135",
+  "data": {
+   "response": {
+    "data": {
+     "id": 135,
+     "name": "",
+     "msg": "",
+     "slug": "c5ec4eaf1ce8dc",
+     "slug_badi_info": null,
+     "mode": "manual",
+     "max": 10,
+     "bookings_enabled": 0,
+     "closed": 0,
+     "status": 1,
+     "logo": null,
+     "user_id": 6385,
+     "company": {
+      "id": 1275,
+      "name": null,
+      "address": null,
+      "companytype_id": null
+     },
+     "counteritems": [
+      {
+       "id": 40993,
+       "val": 0,
+       "ts_created": 1589964060
+      }
+     ],
+     "bookings_active": null
+    }
+   }
+  }
+ },
+ {
+  "url": "https://www.startupuniverse.ch/api/1.0/de/counters/get/136",
+  "data": {
+   "response": {
+    "data": {
+     "id": 136,
+     "name": "Gemeinderats - Sitzung",
+     "msg": "",
+     "slug": "c5ec4fa0a6b6c0",
+     "slug_badi_info": null,
+     "mode": "automatic",
+     "max": 20,
+     "bookings_enabled": 0,
+     "closed": 0,
+     "status": 1,
+     "logo": null,
+     "user_id": 6386,
+     "company": {
+      "id": 1276,
+      "name": "Stadthofsaal",
+      "address": "Theaterstrasse 1",
+      "companytype_id": null
+     },
+     "counteritems": [
+      {
+       "id": 69756,
+       "val": 1,
+       "ts_created": 1590478437
+      }
+     ],
+     "bookings_active": null
+    }
+   }
+  }
+ },
+ {
+  "url": "https://www.startupuniverse.ch/api/1.0/de/counters/get/137",
+  "data": {
+   "response": {
+    "data": {
+     "id": 137,
+     "name": "Test",
+     "msg": "Test Z\u00e4hler",
+     "slug": "c5ec5514b88f4e",
+     "slug_badi_info": null,
+     "mode": "automatic",
+     "max": 10,
+     "bookings_enabled": 0,
+     "closed": 0,
+     "status": 1,
+     "logo": null,
+     "user_id": 6387,
+     "company": {
+      "id": 1277,
+      "name": null,
+      "address": null,
+      "companytype_id": null
+     },
+     "counteritems": [
+      {
+       "id": 42502,
+       "val": 16,
+       "ts_created": 1589989879
+      }
+     ],
+     "bookings_active": null
+    }
+   }
+  }
+ },
+ {
+  "url": "https://www.startupuniverse.ch/api/1.0/de/counters/get/138",
+  "data": {
+   "response": {
+    "data": {
+     "id": 138,
+     "name": "FakeNew",
+     "msg": "",
+     "slug": "c5ec5c90499c3e",
+     "slug_badi_info": null,
+     "mode": "manual",
+     "max": 111,
+     "bookings_enabled": 0,
+     "closed": 0,
+     "status": 1,
+     "logo": null,
+     "user_id": 35,
+     "company": {
+      "id": 1278,
+      "name": null,
+      "address": null,
+      "companytype_id": null
+     },
+     "counteritems": [
+      {
+       "id": 42604,
+       "val": 1,
+       "ts_created": 1590020370
+      }
+     ],
+     "bookings_active": null
+    }
+   }
+  }
+ },
+ {
+  "url": "https://www.startupuniverse.ch/api/1.0/de/counters/get/139",
+  "data": {
+   "response": {
+    "data": {
+     "id": 139,
+     "name": "EINGANG",
+     "msg": "freie Anzahl Pl\u00e4tze im Bad",
+     "slug": "c5ec6538f1cd21",
+     "slug_badi_info": null,
+     "mode": "manual",
+     "max": 10,
+     "bookings_enabled": 0,
+     "closed": 1,
+     "status": 1,
+     "logo": null,
+     "user_id": 6389,
+     "company": {
+      "id": 1279,
+      "name": "Badi",
+      "address": "xxx",
+      "companytype_id": 9
+     },
+     "counteritems": [
+      {
+       "id": 42807,
+       "val": 0,
+       "ts_created": 1590055938
+      }
+     ],
+     "bookings_active": null
+    }
+   }
+  }
+ },
+ {
+  "url": "https://www.startupuniverse.ch/api/1.0/de/counters/get/140",
+  "data": {
+   "response": {
+    "data": {
+     "id": 140,
+     "name": "Tauchsport Uster",
+     "msg": "",
+     "slug": "c5ec77bf546a4e",
+     "slug_badi_info": null,
+     "mode": "automatic",
+     "max": 7,
+     "bookings_enabled": 0,
+     "closed": 0,
+     "status": 1,
+     "logo": null,
+     "user_id": 6392,
+     "company": {
+      "id": 1280,
+      "name": "Tauchsport Uster",
+      "address": "Apothekerstr. 4",
+      "companytype_id": null
+     },
+     "counteritems": [
+      {
+       "id": 43678,
+       "val": 1,
+       "ts_created": 1590132037
+      }
+     ],
+     "bookings_active": null
+    }
+   }
+  }
+ },
+ {
+  "url": "https://www.startupuniverse.ch/api/1.0/de/counters/get/141",
+  "data": {
+   "response": {
+    "data": {
+     "id": 141,
+     "name": "Hallenbad City",
+     "msg": "",
+     "slug": "c5ec7e536b4ddb",
+     "slug_badi_info": null,
+     "mode": "manual",
+     "max": 10,
+     "bookings_enabled": 0,
+     "closed": 1,
+     "status": 1,
+     "logo": null,
+     "user_id": 6397,
+     "company": {
+      "id": 1281,
+      "name": "Hallenbad City",
+      "address": "Z\u00fcrich",
+      "companytype_id": null
+     },
+     "counteritems": [
+      {
+       "id": 45791,
+       "val": 0,
+       "ts_created": 1590159014
+      }
+     ],
+     "bookings_active": null
+    }
+   }
+  }
+ },
+ {
+  "url": "https://www.startupuniverse.ch/api/1.0/de/counters/get/142",
+  "data": {
+   "response": {
+    "data": {
+     "id": 142,
+     "name": "",
+     "msg": "",
+     "slug": "c5ec97126611fe",
+     "slug_badi_info": null,
+     "mode": "manual",
+     "max": 0,
+     "bookings_enabled": 0,
+     "closed": 0,
+     "status": 1,
+     "logo": null,
+     "user_id": 6400,
+     "company": {
+      "id": 1282,
+      "name": null,
+      "address": null,
+      "companytype_id": null
+     },
+     "counteritems": [
+      {
+       "id": 66571,
+       "val": 0,
+       "ts_created": 1590260023
+      }
+     ],
+     "bookings_active": null
+    }
+   }
+  }
+ },
+ {
+  "url": "https://www.startupuniverse.ch/api/1.0/de/counters/get/145",
+  "data": {
+   "response": {
+    "data": {
+     "id": 145,
+     "name": "Schwimmbad Waldacher",
+     "msg": "",
+     "slug": "c5ecadbcf2e901",
+     "slug_badi_info": "https://www.badi-info.ch/zh/volketswil-schwimmbad.html",
+     "mode": "manual",
+     "max": 100,
+     "bookings_enabled": 0,
+     "closed": 1,
+     "status": 1,
+     "logo": null,
+     "user_id": 6407,
+     "company": {
+      "id": 1285,
+      "name": "Gemeinde Volketswil",
+      "address": null,
+      "companytype_id": 9
+     },
+     "counteritems": [],
+     "bookings_active": null
+    }
+   }
+  }
+ },
+ {
+  "url": "https://www.startupuniverse.ch/api/1.0/de/counters/get/146",
+  "data": {
+   "response": {
+    "data": {
+     "id": 146,
+     "name": "GZA Kafi",
+     "msg": "",
+     "slug": "c5ecb798a17704",
+     "slug_badi_info": null,
+     "mode": "manual",
+     "max": 10,
+     "bookings_enabled": 0,
+     "closed": 1,
+     "status": 1,
+     "logo": null,
+     "user_id": 6410,
+     "company": {
+      "id": 1286,
+      "name": "GZ Affoltern",
+      "address": null,
+      "companytype_id": null
+     },
+     "counteritems": [],
+     "bookings_active": null
+    }
+   }
+  }
+ },
+ {
+  "url": "https://www.startupuniverse.ch/api/1.0/de/counters/get/147",
+  "data": {
+   "response": {
+    "data": {
+     "id": 147,
+     "name": "Schachen Badi",
+     "msg": "",
+     "slug": "c5ecb9d5d99f44",
+     "slug_badi_info": "DISABLED: https://www.badi-info.ch/a/aarau.html",
+     "mode": "manual",
+     "max": 25,
+     "bookings_enabled": 0,
+     "closed": 0,
+     "status": 1,
+     "logo": null,
+     "user_id": 6355,
+     "company": {
+      "id": 1287,
+      "name": null,
+      "address": null,
+      "companytype_id": 9
+     },
+     "counteritems": [
+      {
+       "id": 73271,
+       "val": 14,
+       "ts_created": 1590567661
+      }
+     ],
+     "bookings_active": null
+    }
+   }
+  }
+ }
+]
