@@ -36,8 +36,9 @@ def parse_endpoints():
 			# can expand columns here
 			#slug_badi_info = y.get('slug_badi_info',None)
 
-			url = config.URL_DATA.format(slug)
-			full_list.append({'index': index, 'name' : name, 'slug': slug, 'url' : url})
+			url_dashboard = config.URL_DASH.format(slug)
+			url_data = config.URL_DATA.format(index)
+			full_list.append({'index': index, 'name' : name, 'slug': slug, 'url_dashboard' : url_dashboard, 'url_data' : url_data})
 
 	df = pd.DataFrame(full_list).set_index('index')
 	
@@ -49,7 +50,9 @@ def parse_endpoints():
 		df.reset_index().to_json(config.JSON_PATH, orient='records', indent=True)
 
 	# prepare to process for markdown
-	df['url'] = df.apply(lambda x: wrap_md(x.slug, x.url), axis=1)
+	df['url_dashboard'] = df.apply(lambda x: wrap_md(x.url_dashboard), axis=1)
+	df['url_data'] = df.apply(lambda x: wrap_md(x.url_data), axis=1)
+
 	#del df['slug']
 	#del df['url']
 	
@@ -84,9 +87,9 @@ def get_endpoints():
 	with open(config.METADATA_FILE,'w') as fp:
 		json.dump(good_list, fp, indent = True)
 
-def wrap_md(text, link):
+def wrap_md(link):
 
-	return '[{1}]({1})'.format(text, link)
+	return '[{0}]({0})'.format(link)
 
 
 if __name__ == '__main__':

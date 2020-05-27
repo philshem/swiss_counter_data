@@ -1300,9 +1300,9 @@
      },
      "counteritems": [
       {
-       "id": 73689,
-       "val": 25,
-       "ts_created": 1590573751
+       "id": 73708,
+       "val": 26,
+       "ts_created": 1590573980
       }
      ],
      "bookings_active": null
@@ -1440,9 +1440,9 @@
      },
      "counteritems": [
       {
-       "id": 73685,
-       "val": 8,
-       "ts_created": 1590573670
+       "id": 73718,
+       "val": 7,
+       "ts_created": 1590574119
       }
      ],
      "bookings_active": null
@@ -2710,9 +2710,9 @@
      },
      "counteritems": [
       {
-       "id": 73682,
+       "id": 73715,
        "val": 21,
-       "ts_created": 1590573642
+       "ts_created": 1590574068
       }
      ],
      "bookings_active": null
@@ -3083,9 +3083,9 @@
      },
      "counteritems": [
       {
-       "id": 73688,
-       "val": 12,
-       "ts_created": 1590573745
+       "id": 73716,
+       "val": 11,
+       "ts_created": 1590574117
       }
      ],
      "bookings_active": null

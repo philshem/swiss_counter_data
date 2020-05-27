@@ -3,576 +3,672 @@
   "index":12,
   "name":"B\u00e4ren",
   "slug":"a1",
-  "url":"https:\/\/www.countee.ch\/app\/de\/counter\/a1"
+  "url_dashboard":"https:\/\/www.countee.ch\/app\/de\/counter\/a1",
+  "url_data":"https:\/\/www.startupuniverse.ch\/api\/1.0\/de\/counters\/get\/12"
  },
  {
   "index":13,
   "name":"Kletterhalle",
   "slug":"a2",
-  "url":"https:\/\/www.countee.ch\/app\/de\/counter\/a2"
+  "url_dashboard":"https:\/\/www.countee.ch\/app\/de\/counter\/a2",
+  "url_data":"https:\/\/www.startupuniverse.ch\/api\/1.0\/de\/counters\/get\/13"
  },
  {
   "index":14,
   "name":"Migros Uster",
   "slug":"a3",
-  "url":"https:\/\/www.countee.ch\/app\/de\/counter\/a3"
+  "url_dashboard":"https:\/\/www.countee.ch\/app\/de\/counter\/a3",
+  "url_data":"https:\/\/www.startupuniverse.ch\/api\/1.0\/de\/counters\/get\/14"
  },
  {
   "index":15,
   "name":"Migros Uster West",
   "slug":"a4",
-  "url":"https:\/\/www.countee.ch\/app\/de\/counter\/a4"
+  "url_dashboard":"https:\/\/www.countee.ch\/app\/de\/counter\/a4",
+  "url_data":"https:\/\/www.startupuniverse.ch\/api\/1.0\/de\/counters\/get\/15"
  },
  {
   "index":16,
   "name":"Grocery Shopping",
   "slug":"x1",
-  "url":"https:\/\/www.countee.ch\/app\/de\/counter\/x1"
+  "url_dashboard":"https:\/\/www.countee.ch\/app\/de\/counter\/x1",
+  "url_data":"https:\/\/www.startupuniverse.ch\/api\/1.0\/de\/counters\/get\/16"
  },
  {
   "index":17,
   "name":"Coop",
   "slug":"x2",
-  "url":"https:\/\/www.countee.ch\/app\/de\/counter\/x2"
+  "url_dashboard":"https:\/\/www.countee.ch\/app\/de\/counter\/x2",
+  "url_data":"https:\/\/www.startupuniverse.ch\/api\/1.0\/de\/counters\/get\/17"
  },
  {
   "index":19,
   "name":"migi",
   "slug":"x7",
-  "url":"https:\/\/www.countee.ch\/app\/de\/counter\/x7"
+  "url_dashboard":"https:\/\/www.countee.ch\/app\/de\/counter\/x7",
+  "url_data":"https:\/\/www.startupuniverse.ch\/api\/1.0\/de\/counters\/get\/19"
  },
  {
   "index":22,
   "name":"Imkerstr.",
   "slug":"y2",
-  "url":"https:\/\/www.countee.ch\/app\/de\/counter\/y2"
+  "url_dashboard":"https:\/\/www.countee.ch\/app\/de\/counter\/y2",
+  "url_data":"https:\/\/www.startupuniverse.ch\/api\/1.0\/de\/counters\/get\/22"
  },
  {
   "index":23,
   "name":"R\u00fcesch",
   "slug":"k1",
-  "url":"https:\/\/www.countee.ch\/app\/de\/counter\/k1"
+  "url_dashboard":"https:\/\/www.countee.ch\/app\/de\/counter\/k1",
+  "url_data":"https:\/\/www.startupuniverse.ch\/api\/1.0\/de\/counters\/get\/23"
  },
  {
   "index":24,
   "name":"Petfriends Biel\/Bienne",
   "slug":"k2",
-  "url":"https:\/\/www.countee.ch\/app\/de\/counter\/k2"
+  "url_dashboard":"https:\/\/www.countee.ch\/app\/de\/counter\/k2",
+  "url_data":"https:\/\/www.startupuniverse.ch\/api\/1.0\/de\/counters\/get\/24"
  },
  {
   "index":25,
   "name":"Petfriends Biel\/Bienne",
   "slug":"k4",
-  "url":"https:\/\/www.countee.ch\/app\/de\/counter\/k4"
+  "url_dashboard":"https:\/\/www.countee.ch\/app\/de\/counter\/k4",
+  "url_data":"https:\/\/www.startupuniverse.ch\/api\/1.0\/de\/counters\/get\/25"
  },
  {
   "index":26,
   "name":"Schlossapotheke Uster",
   "slug":"k3",
-  "url":"https:\/\/www.countee.ch\/app\/de\/counter\/k3"
+  "url_dashboard":"https:\/\/www.countee.ch\/app\/de\/counter\/k3",
+  "url_data":"https:\/\/www.startupuniverse.ch\/api\/1.0\/de\/counters\/get\/26"
  },
  {
   "index":29,
   "name":"Abc",
   "slug":"l2",
-  "url":"https:\/\/www.countee.ch\/app\/de\/counter\/l2"
+  "url_dashboard":"https:\/\/www.countee.ch\/app\/de\/counter\/l2",
+  "url_data":"https:\/\/www.startupuniverse.ch\/api\/1.0\/de\/counters\/get\/29"
  },
  {
   "index":31,
   "name":"Spiga Glattzentrum",
   "slug":"o7",
-  "url":"https:\/\/www.countee.ch\/app\/de\/counter\/o7"
+  "url_dashboard":"https:\/\/www.countee.ch\/app\/de\/counter\/o7",
+  "url_data":"https:\/\/www.startupuniverse.ch\/api\/1.0\/de\/counters\/get\/31"
  },
  {
   "index":32,
   "name":"TEST_off",
   "slug":"o8",
-  "url":"https:\/\/www.countee.ch\/app\/de\/counter\/o8"
+  "url_dashboard":"https:\/\/www.countee.ch\/app\/de\/counter\/o8",
+  "url_data":"https:\/\/www.startupuniverse.ch\/api\/1.0\/de\/counters\/get\/32"
  },
  {
   "index":33,
   "name":"COUNTER",
   "slug":"o4",
-  "url":"https:\/\/www.countee.ch\/app\/de\/counter\/o4"
+  "url_dashboard":"https:\/\/www.countee.ch\/app\/de\/counter\/o4",
+  "url_data":"https:\/\/www.startupuniverse.ch\/api\/1.0\/de\/counters\/get\/33"
  },
  {
   "index":34,
   "name":"PaescCounter",
   "slug":"q1",
-  "url":"https:\/\/www.countee.ch\/app\/de\/counter\/q1"
+  "url_dashboard":"https:\/\/www.countee.ch\/app\/de\/counter\/q1",
+  "url_data":"https:\/\/www.startupuniverse.ch\/api\/1.0\/de\/counters\/get\/34"
  },
  {
   "index":35,
   "name":"Migros Uster",
   "slug":"q2",
-  "url":"https:\/\/www.countee.ch\/app\/de\/counter\/q2"
+  "url_dashboard":"https:\/\/www.countee.ch\/app\/de\/counter\/q2",
+  "url_data":"https:\/\/www.startupuniverse.ch\/api\/1.0\/de\/counters\/get\/35"
  },
  {
   "index":36,
   "name":"David Becker",
   "slug":"q3",
-  "url":"https:\/\/www.countee.ch\/app\/de\/counter\/q3"
+  "url_dashboard":"https:\/\/www.countee.ch\/app\/de\/counter\/q3",
+  "url_data":"https:\/\/www.startupuniverse.ch\/api\/1.0\/de\/counters\/get\/36"
  },
  {
   "index":37,
   "name":"Test-Simon",
   "slug":"a3",
-  "url":"https:\/\/www.countee.ch\/app\/de\/counter\/a3"
+  "url_dashboard":"https:\/\/www.countee.ch\/app\/de\/counter\/a3",
+  "url_data":"https:\/\/www.startupuniverse.ch\/api\/1.0\/de\/counters\/get\/37"
  },
  {
   "index":38,
   "name":"KKK",
   "slug":"r4",
-  "url":"https:\/\/www.countee.ch\/app\/de\/counter\/r4"
+  "url_dashboard":"https:\/\/www.countee.ch\/app\/de\/counter\/r4",
+  "url_data":"https:\/\/www.startupuniverse.ch\/api\/1.0\/de\/counters\/get\/38"
  },
  {
   "index":39,
   "name":"Migros Meilen",
   "slug":"t6",
-  "url":"https:\/\/www.countee.ch\/app\/de\/counter\/t6"
+  "url_dashboard":"https:\/\/www.countee.ch\/app\/de\/counter\/t6",
+  "url_data":"https:\/\/www.startupuniverse.ch\/api\/1.0\/de\/counters\/get\/39"
  },
  {
   "index":40,
   "name":"Migros Test",
   "slug":"z7",
-  "url":"https:\/\/www.countee.ch\/app\/de\/counter\/z7"
+  "url_dashboard":"https:\/\/www.countee.ch\/app\/de\/counter\/z7",
+  "url_data":"https:\/\/www.startupuniverse.ch\/api\/1.0\/de\/counters\/get\/40"
  },
  {
   "index":41,
   "name":"Test2",
   "slug":"u8",
-  "url":"https:\/\/www.countee.ch\/app\/de\/counter\/u8"
+  "url_dashboard":"https:\/\/www.countee.ch\/app\/de\/counter\/u8",
+  "url_data":"https:\/\/www.startupuniverse.ch\/api\/1.0\/de\/counters\/get\/41"
  },
  {
   "index":42,
   "name":"onemore",
   "slug":"m9",
-  "url":"https:\/\/www.countee.ch\/app\/de\/counter\/m9"
+  "url_dashboard":"https:\/\/www.countee.ch\/app\/de\/counter\/m9",
+  "url_data":"https:\/\/www.startupuniverse.ch\/api\/1.0\/de\/counters\/get\/42"
  },
  {
   "index":43,
   "name":"David",
   "slug":"m5",
-  "url":"https:\/\/www.countee.ch\/app\/de\/counter\/m5"
+  "url_dashboard":"https:\/\/www.countee.ch\/app\/de\/counter\/m5",
+  "url_data":"https:\/\/www.startupuniverse.ch\/api\/1.0\/de\/counters\/get\/43"
  },
  {
   "index":44,
   "name":"Test-Account",
   "slug":"m1",
-  "url":"https:\/\/www.countee.ch\/app\/de\/counter\/m1"
+  "url_dashboard":"https:\/\/www.countee.ch\/app\/de\/counter\/m1",
+  "url_data":"https:\/\/www.startupuniverse.ch\/api\/1.0\/de\/counters\/get\/44"
  },
  {
   "index":45,
   "name":"Migros Ramsen",
   "slug":"n6",
-  "url":"https:\/\/www.countee.ch\/app\/de\/counter\/n6"
+  "url_dashboard":"https:\/\/www.countee.ch\/app\/de\/counter\/n6",
+  "url_data":"https:\/\/www.startupuniverse.ch\/api\/1.0\/de\/counters\/get\/45"
  },
  {
   "index":46,
   "name":"Petfriends Biel\/Bienne",
   "slug":"n1",
-  "url":"https:\/\/www.countee.ch\/app\/de\/counter\/n1"
+  "url_dashboard":"https:\/\/www.countee.ch\/app\/de\/counter\/n1",
+  "url_data":"https:\/\/www.startupuniverse.ch\/api\/1.0\/de\/counters\/get\/46"
  },
  {
   "index":47,
   "name":"TesRoman",
   "slug":"n2",
-  "url":"https:\/\/www.countee.ch\/app\/de\/counter\/n2"
+  "url_dashboard":"https:\/\/www.countee.ch\/app\/de\/counter\/n2",
+  "url_data":"https:\/\/www.startupuniverse.ch\/api\/1.0\/de\/counters\/get\/47"
  },
  {
   "index":48,
   "name":"Test",
   "slug":"n3",
-  "url":"https:\/\/www.countee.ch\/app\/de\/counter\/n3"
+  "url_dashboard":"https:\/\/www.countee.ch\/app\/de\/counter\/n3",
+  "url_data":"https:\/\/www.startupuniverse.ch\/api\/1.0\/de\/counters\/get\/48"
  },
  {
   "index":52,
   "name":"KKK",
   "slug":"n4",
-  "url":"https:\/\/www.countee.ch\/app\/de\/counter\/n4"
+  "url_dashboard":"https:\/\/www.countee.ch\/app\/de\/counter\/n4",
+  "url_data":"https:\/\/www.startupuniverse.ch\/api\/1.0\/de\/counters\/get\/52"
  },
  {
   "index":53,
   "name":"bimbamboum",
   "slug":"n5",
-  "url":"https:\/\/www.countee.ch\/app\/de\/counter\/n5"
+  "url_dashboard":"https:\/\/www.countee.ch\/app\/de\/counter\/n5",
+  "url_data":"https:\/\/www.startupuniverse.ch\/api\/1.0\/de\/counters\/get\/53"
  },
  {
   "index":59,
   "name":"TestNeu",
   "slug":"n6",
-  "url":"https:\/\/www.countee.ch\/app\/de\/counter\/n6"
+  "url_dashboard":"https:\/\/www.countee.ch\/app\/de\/counter\/n6",
+  "url_data":"https:\/\/www.startupuniverse.ch\/api\/1.0\/de\/counters\/get\/59"
  },
  {
   "index":62,
   "name":"Migros Fake",
   "slug":"n8",
-  "url":"https:\/\/www.countee.ch\/app\/de\/counter\/n8"
+  "url_dashboard":"https:\/\/www.countee.ch\/app\/de\/counter\/n8",
+  "url_data":"https:\/\/www.startupuniverse.ch\/api\/1.0\/de\/counters\/get\/62"
  },
  {
   "index":63,
   "name":"Coop Fake",
   "slug":"h8",
-  "url":"https:\/\/www.countee.ch\/app\/de\/counter\/h8"
+  "url_dashboard":"https:\/\/www.countee.ch\/app\/de\/counter\/h8",
+  "url_data":"https:\/\/www.startupuniverse.ch\/api\/1.0\/de\/counters\/get\/63"
  },
  {
   "index":64,
   "name":"Demo2",
   "slug":"h7",
-  "url":"https:\/\/www.countee.ch\/app\/de\/counter\/h7"
+  "url_dashboard":"https:\/\/www.countee.ch\/app\/de\/counter\/h7",
+  "url_data":"https:\/\/www.startupuniverse.ch\/api\/1.0\/de\/counters\/get\/64"
  },
  {
   "index":66,
   "name":"G&S Fake",
   "slug":"h5",
-  "url":"https:\/\/www.countee.ch\/app\/de\/counter\/h5"
+  "url_dashboard":"https:\/\/www.countee.ch\/app\/de\/counter\/h5",
+  "url_data":"https:\/\/www.startupuniverse.ch\/api\/1.0\/de\/counters\/get\/66"
  },
  {
   "index":67,
   "name":"Aldi Fake...",
   "slug":"h4",
-  "url":"https:\/\/www.countee.ch\/app\/de\/counter\/h4"
+  "url_dashboard":"https:\/\/www.countee.ch\/app\/de\/counter\/h4",
+  "url_data":"https:\/\/www.startupuniverse.ch\/api\/1.0\/de\/counters\/get\/67"
  },
  {
   "index":68,
   "name":"neu",
   "slug":"h3",
-  "url":"https:\/\/www.countee.ch\/app\/de\/counter\/h3"
+  "url_dashboard":"https:\/\/www.countee.ch\/app\/de\/counter\/h3",
+  "url_data":"https:\/\/www.startupuniverse.ch\/api\/1.0\/de\/counters\/get\/68"
  },
  {
   "index":69,
   "name":"DemoCounter",
   "slug":"c5eaf40c96c221",
-  "url":"https:\/\/www.countee.ch\/app\/de\/counter\/c5eaf40c96c221"
+  "url_dashboard":"https:\/\/www.countee.ch\/app\/de\/counter\/c5eaf40c96c221",
+  "url_data":"https:\/\/www.startupuniverse.ch\/api\/1.0\/de\/counters\/get\/69"
  },
  {
   "index":70,
   "name":"SV Restaurant Riverside",
   "slug":"c5eafa5a51179e",
-  "url":"https:\/\/www.countee.ch\/app\/de\/counter\/c5eafa5a51179e"
+  "url_dashboard":"https:\/\/www.countee.ch\/app\/de\/counter\/c5eafa5a51179e",
+  "url_data":"https:\/\/www.startupuniverse.ch\/api\/1.0\/de\/counters\/get\/70"
  },
  {
   "index":71,
   "name":"Hallenbad City Z\u00fcrich",
   "slug":"c5eb19118e5824",
-  "url":"https:\/\/www.countee.ch\/app\/de\/counter\/c5eb19118e5824"
+  "url_dashboard":"https:\/\/www.countee.ch\/app\/de\/counter\/c5eb19118e5824",
+  "url_data":"https:\/\/www.startupuniverse.ch\/api\/1.0\/de\/counters\/get\/71"
  },
  {
   "index":72,
   "name":"Freibad Letzigraben",
   "slug":"c5eb1917e9eedc",
-  "url":"https:\/\/www.countee.ch\/app\/de\/counter\/c5eb1917e9eedc"
+  "url_dashboard":"https:\/\/www.countee.ch\/app\/de\/counter\/c5eb1917e9eedc",
+  "url_data":"https:\/\/www.startupuniverse.ch\/api\/1.0\/de\/counters\/get\/72"
  },
  {
   "index":77,
   "name":"Testz\u00e4hler Sportamt",
   "slug":"c5eb2fe4c4bf3d",
-  "url":"https:\/\/www.countee.ch\/app\/de\/counter\/c5eb2fe4c4bf3d"
+  "url_dashboard":"https:\/\/www.countee.ch\/app\/de\/counter\/c5eb2fe4c4bf3d",
+  "url_data":"https:\/\/www.startupuniverse.ch\/api\/1.0\/de\/counters\/get\/77"
  },
  {
   "index":78,
   "name":"Stadtbibliothek",
   "slug":"c5eb4f54a97426",
-  "url":"https:\/\/www.countee.ch\/app\/de\/counter\/c5eb4f54a97426"
+  "url_dashboard":"https:\/\/www.countee.ch\/app\/de\/counter\/c5eb4f54a97426",
+  "url_data":"https:\/\/www.startupuniverse.ch\/api\/1.0\/de\/counters\/get\/78"
  },
  {
   "index":79,
   "name":"Filiale SG",
   "slug":"c5eb516fcbc35d",
-  "url":"https:\/\/www.countee.ch\/app\/de\/counter\/c5eb516fcbc35d"
+  "url_dashboard":"https:\/\/www.countee.ch\/app\/de\/counter\/c5eb516fcbc35d",
+  "url_data":"https:\/\/www.startupuniverse.ch\/api\/1.0\/de\/counters\/get\/79"
  },
  {
   "index":80,
   "name":"Strandbad Uster Fake",
   "slug":"c5eb517691db88",
-  "url":"https:\/\/www.countee.ch\/app\/de\/counter\/c5eb517691db88"
+  "url_dashboard":"https:\/\/www.countee.ch\/app\/de\/counter\/c5eb517691db88",
+  "url_data":"https:\/\/www.startupuniverse.ch\/api\/1.0\/de\/counters\/get\/80"
  },
  {
   "index":81,
   "name":"EG- Elektro",
   "slug":"c5eb5930f681ab",
-  "url":"https:\/\/www.countee.ch\/app\/de\/counter\/c5eb5930f681ab"
+  "url_dashboard":"https:\/\/www.countee.ch\/app\/de\/counter\/c5eb5930f681ab",
+  "url_data":"https:\/\/www.startupuniverse.ch\/api\/1.0\/de\/counters\/get\/81"
  },
  {
   "index":82,
   "name":"test",
   "slug":"c5eb5aba12f5e5",
-  "url":"https:\/\/www.countee.ch\/app\/de\/counter\/c5eb5aba12f5e5"
+  "url_dashboard":"https:\/\/www.countee.ch\/app\/de\/counter\/c5eb5aba12f5e5",
+  "url_data":"https:\/\/www.startupuniverse.ch\/api\/1.0\/de\/counters\/get\/82"
  },
  {
   "index":84,
   "name":"Bruno Lickel",
   "slug":"c5eb692ed541bd",
-  "url":"https:\/\/www.countee.ch\/app\/de\/counter\/c5eb692ed541bd"
+  "url_dashboard":"https:\/\/www.countee.ch\/app\/de\/counter\/c5eb692ed541bd",
+  "url_data":"https:\/\/www.startupuniverse.ch\/api\/1.0\/de\/counters\/get\/84"
  },
  {
   "index":85,
   "name":"Brack Hauptsitz",
   "slug":"c5eb7e43b7b0c0",
-  "url":"https:\/\/www.countee.ch\/app\/de\/counter\/c5eb7e43b7b0c0"
+  "url_dashboard":"https:\/\/www.countee.ch\/app\/de\/counter\/c5eb7e43b7b0c0",
+  "url_data":"https:\/\/www.startupuniverse.ch\/api\/1.0\/de\/counters\/get\/85"
  },
  {
   "index":88,
   "name":"Testz\u00e4hler",
   "slug":"c5eb9730040103",
-  "url":"https:\/\/www.countee.ch\/app\/de\/counter\/c5eb9730040103"
+  "url_dashboard":"https:\/\/www.countee.ch\/app\/de\/counter\/c5eb9730040103",
+  "url_data":"https:\/\/www.startupuniverse.ch\/api\/1.0\/de\/counters\/get\/88"
  },
  {
   "index":101,
   "name":"XA",
   "slug":"c5eba39a4757c3",
-  "url":"https:\/\/www.countee.ch\/app\/de\/counter\/c5eba39a4757c3"
+  "url_dashboard":"https:\/\/www.countee.ch\/app\/de\/counter\/c5eba39a4757c3",
+  "url_data":"https:\/\/www.startupuniverse.ch\/api\/1.0\/de\/counters\/get\/101"
  },
  {
   "index":103,
   "name":"test",
   "slug":"c5eba626fe22cf",
-  "url":"https:\/\/www.countee.ch\/app\/de\/counter\/c5eba626fe22cf"
+  "url_dashboard":"https:\/\/www.countee.ch\/app\/de\/counter\/c5eba626fe22cf",
+  "url_data":"https:\/\/www.startupuniverse.ch\/api\/1.0\/de\/counters\/get\/103"
  },
  {
   "index":104,
   "name":"P\u00fcnktli",
   "slug":"c5eba690b8bc57",
-  "url":"https:\/\/www.countee.ch\/app\/de\/counter\/c5eba690b8bc57"
+  "url_dashboard":"https:\/\/www.countee.ch\/app\/de\/counter\/c5eba690b8bc57",
+  "url_data":"https:\/\/www.startupuniverse.ch\/api\/1.0\/de\/counters\/get\/104"
  },
  {
   "index":105,
   "name":"Store",
   "slug":"c5eba6f29e45c9",
-  "url":"https:\/\/www.countee.ch\/app\/de\/counter\/c5eba6f29e45c9"
+  "url_dashboard":"https:\/\/www.countee.ch\/app\/de\/counter\/c5eba6f29e45c9",
+  "url_data":"https:\/\/www.startupuniverse.ch\/api\/1.0\/de\/counters\/get\/105"
  },
  {
   "index":106,
   "name":"New",
   "slug":"c5ebaf6eb119ae",
-  "url":"https:\/\/www.countee.ch\/app\/de\/counter\/c5ebaf6eb119ae"
+  "url_dashboard":"https:\/\/www.countee.ch\/app\/de\/counter\/c5ebaf6eb119ae",
+  "url_data":"https:\/\/www.startupuniverse.ch\/api\/1.0\/de\/counters\/get\/106"
  },
  {
   "index":107,
   "name":"humanheroes\u00ae - master your challenge \ud83d\ude80",
   "slug":"c5ebb8b0e29980",
-  "url":"https:\/\/www.countee.ch\/app\/de\/counter\/c5ebb8b0e29980"
+  "url_dashboard":"https:\/\/www.countee.ch\/app\/de\/counter\/c5ebb8b0e29980",
+  "url_data":"https:\/\/www.startupuniverse.ch\/api\/1.0\/de\/counters\/get\/107"
  },
  {
   "index":108,
   "name":"Test",
   "slug":"c5ebbb56b1b35b",
-  "url":"https:\/\/www.countee.ch\/app\/de\/counter\/c5ebbb56b1b35b"
+  "url_dashboard":"https:\/\/www.countee.ch\/app\/de\/counter\/c5ebbb56b1b35b",
+  "url_data":"https:\/\/www.startupuniverse.ch\/api\/1.0\/de\/counters\/get\/108"
  },
  {
   "index":109,
   "name":"Z\u00e4hler 1",
   "slug":"c5ebbc5e8dc53d",
-  "url":"https:\/\/www.countee.ch\/app\/de\/counter\/c5ebbc5e8dc53d"
+  "url_dashboard":"https:\/\/www.countee.ch\/app\/de\/counter\/c5ebbc5e8dc53d",
+  "url_data":"https:\/\/www.startupuniverse.ch\/api\/1.0\/de\/counters\/get\/109"
  },
  {
   "index":110,
   "name":"Test",
   "slug":"c5ebbce32d8a0b",
-  "url":"https:\/\/www.countee.ch\/app\/de\/counter\/c5ebbce32d8a0b"
+  "url_dashboard":"https:\/\/www.countee.ch\/app\/de\/counter\/c5ebbce32d8a0b",
+  "url_data":"https:\/\/www.startupuniverse.ch\/api\/1.0\/de\/counters\/get\/110"
  },
  {
   "index":111,
   "name":"Eingang Gesch\u00e4ft",
   "slug":"c5ebbfa35a3fc9",
-  "url":"https:\/\/www.countee.ch\/app\/de\/counter\/c5ebbfa35a3fc9"
+  "url_dashboard":"https:\/\/www.countee.ch\/app\/de\/counter\/c5ebbfa35a3fc9",
+  "url_data":"https:\/\/www.startupuniverse.ch\/api\/1.0\/de\/counters\/get\/111"
  },
  {
   "index":112,
   "name":"Wochenmarkt oberer Graben (Holzmarkt)",
   "slug":"c5ebc10b9cbb21",
-  "url":"https:\/\/www.countee.ch\/app\/de\/counter\/c5ebc10b9cbb21"
+  "url_dashboard":"https:\/\/www.countee.ch\/app\/de\/counter\/c5ebc10b9cbb21",
+  "url_data":"https:\/\/www.startupuniverse.ch\/api\/1.0\/de\/counters\/get\/112"
  },
  {
   "index":113,
   "name":"Wochenmarkt Schlossplatz",
   "slug":"c5ebc10f08d6a2",
-  "url":"https:\/\/www.countee.ch\/app\/de\/counter\/c5ebc10f08d6a2"
+  "url_dashboard":"https:\/\/www.countee.ch\/app\/de\/counter\/c5ebc10f08d6a2",
+  "url_data":"https:\/\/www.startupuniverse.ch\/api\/1.0\/de\/counters\/get\/113"
  },
  {
   "index":114,
   "name":"Wochenmarkt Laurenzenvorstadt",
   "slug":"c5ebc1116e9468",
-  "url":"https:\/\/www.countee.ch\/app\/de\/counter\/c5ebc1116e9468"
+  "url_dashboard":"https:\/\/www.countee.ch\/app\/de\/counter\/c5ebc1116e9468",
+  "url_data":"https:\/\/www.startupuniverse.ch\/api\/1.0\/de\/counters\/get\/114"
  },
  {
   "index":115,
   "name":"Wochenmarkt unterer Graben (Schlossplatz)",
   "slug":"c5ebc11807b29e",
-  "url":"https:\/\/www.countee.ch\/app\/de\/counter\/c5ebc11807b29e"
+  "url_dashboard":"https:\/\/www.countee.ch\/app\/de\/counter\/c5ebc11807b29e",
+  "url_data":"https:\/\/www.startupuniverse.ch\/api\/1.0\/de\/counters\/get\/115"
  },
  {
   "index":116,
   "name":"Schaefer AG",
   "slug":"c5ebc1de781992",
-  "url":"https:\/\/www.countee.ch\/app\/de\/counter\/c5ebc1de781992"
+  "url_dashboard":"https:\/\/www.countee.ch\/app\/de\/counter\/c5ebc1de781992",
+  "url_data":"https:\/\/www.startupuniverse.ch\/api\/1.0\/de\/counters\/get\/116"
  },
  {
   "index":117,
   "name":"Freibad-Zutritt",
   "slug":"c5ebcf674c475c",
-  "url":"https:\/\/www.countee.ch\/app\/de\/counter\/c5ebcf674c475c"
+  "url_dashboard":"https:\/\/www.countee.ch\/app\/de\/counter\/c5ebcf674c475c",
+  "url_data":"https:\/\/www.startupuniverse.ch\/api\/1.0\/de\/counters\/get\/117"
  },
  {
   "index":118,
   "name":"dummy",
   "slug":"c5ebd19d823ca3",
-  "url":"https:\/\/www.countee.ch\/app\/de\/counter\/c5ebd19d823ca3"
+  "url_dashboard":"https:\/\/www.countee.ch\/app\/de\/counter\/c5ebd19d823ca3",
+  "url_data":"https:\/\/www.startupuniverse.ch\/api\/1.0\/de\/counters\/get\/118"
  },
  {
   "index":119,
   "name":"test",
   "slug":"c5ebd97ad9356c",
-  "url":"https:\/\/www.countee.ch\/app\/de\/counter\/c5ebd97ad9356c"
+  "url_dashboard":"https:\/\/www.countee.ch\/app\/de\/counter\/c5ebd97ad9356c",
+  "url_data":"https:\/\/www.startupuniverse.ch\/api\/1.0\/de\/counters\/get\/119"
  },
  {
   "index":120,
   "name":"twe",
   "slug":"c5ebdb47a522fe",
-  "url":"https:\/\/www.countee.ch\/app\/de\/counter\/c5ebdb47a522fe"
+  "url_dashboard":"https:\/\/www.countee.ch\/app\/de\/counter\/c5ebdb47a522fe",
+  "url_data":"https:\/\/www.startupuniverse.ch\/api\/1.0\/de\/counters\/get\/120"
  },
  {
   "index":121,
   "name":"sadasd",
   "slug":"c5ebe6117503b9",
-  "url":"https:\/\/www.countee.ch\/app\/de\/counter\/c5ebe6117503b9"
+  "url_dashboard":"https:\/\/www.countee.ch\/app\/de\/counter\/c5ebe6117503b9",
+  "url_data":"https:\/\/www.startupuniverse.ch\/api\/1.0\/de\/counters\/get\/121"
  },
  {
   "index":122,
   "name":"Hallenbad",
   "slug":"c5ebe6e28d4131",
-  "url":"https:\/\/www.countee.ch\/app\/de\/counter\/c5ebe6e28d4131"
+  "url_dashboard":"https:\/\/www.countee.ch\/app\/de\/counter\/c5ebe6e28d4131",
+  "url_data":"https:\/\/www.startupuniverse.ch\/api\/1.0\/de\/counters\/get\/122"
  },
  {
   "index":123,
   "name":"Signal AG",
   "slug":"c5ebe9218e21eb",
-  "url":"https:\/\/www.countee.ch\/app\/de\/counter\/c5ebe9218e21eb"
+  "url_dashboard":"https:\/\/www.countee.ch\/app\/de\/counter\/c5ebe9218e21eb",
+  "url_data":"https:\/\/www.startupuniverse.ch\/api\/1.0\/de\/counters\/get\/123"
  },
  {
   "index":124,
   "name":"Test",
   "slug":"c5ebea84aa6e20",
-  "url":"https:\/\/www.countee.ch\/app\/de\/counter\/c5ebea84aa6e20"
+  "url_dashboard":"https:\/\/www.countee.ch\/app\/de\/counter\/c5ebea84aa6e20",
+  "url_data":"https:\/\/www.startupuniverse.ch\/api\/1.0\/de\/counters\/get\/124"
  },
  {
   "index":125,
   "name":"Evis Test",
   "slug":"c5ebfe049532a0",
-  "url":"https:\/\/www.countee.ch\/app\/de\/counter\/c5ebfe049532a0"
+  "url_dashboard":"https:\/\/www.countee.ch\/app\/de\/counter\/c5ebfe049532a0",
+  "url_data":"https:\/\/www.startupuniverse.ch\/api\/1.0\/de\/counters\/get\/125"
  },
  {
   "index":126,
   "name":"Fitness-& Gesundheitscenter Ambiente",
   "slug":"c5ebfe132ba866",
-  "url":"https:\/\/www.countee.ch\/app\/de\/counter\/c5ebfe132ba866"
+  "url_dashboard":"https:\/\/www.countee.ch\/app\/de\/counter\/c5ebfe132ba866",
+  "url_data":"https:\/\/www.startupuniverse.ch\/api\/1.0\/de\/counters\/get\/126"
  },
  {
   "index":127,
   "name":"Freibad & Hallenbad Fohrbach Zollikon",
   "slug":"c5ec2868026e1b",
-  "url":"https:\/\/www.countee.ch\/app\/de\/counter\/c5ec2868026e1b"
+  "url_dashboard":"https:\/\/www.countee.ch\/app\/de\/counter\/c5ec2868026e1b",
+  "url_data":"https:\/\/www.startupuniverse.ch\/api\/1.0\/de\/counters\/get\/127"
  },
  {
   "index":128,
   "name":"Seebad Zollikon",
   "slug":"c5ec286f8eb3d4",
-  "url":"https:\/\/www.countee.ch\/app\/de\/counter\/c5ec286f8eb3d4"
+  "url_dashboard":"https:\/\/www.countee.ch\/app\/de\/counter\/c5ec286f8eb3d4",
+  "url_data":"https:\/\/www.startupuniverse.ch\/api\/1.0\/de\/counters\/get\/128"
  },
  {
   "index":130,
   "name":"service informatique",
   "slug":"c5ec3d44364ca1",
-  "url":"https:\/\/www.countee.ch\/app\/de\/counter\/c5ec3d44364ca1"
+  "url_dashboard":"https:\/\/www.countee.ch\/app\/de\/counter\/c5ec3d44364ca1",
+  "url_data":"https:\/\/www.startupuniverse.ch\/api\/1.0\/de\/counters\/get\/130"
  },
  {
   "index":131,
   "name":"Freibad Widnau",
   "slug":"c5ec3f7482a06e",
-  "url":"https:\/\/www.countee.ch\/app\/de\/counter\/c5ec3f7482a06e"
+  "url_dashboard":"https:\/\/www.countee.ch\/app\/de\/counter\/c5ec3f7482a06e",
+  "url_data":"https:\/\/www.startupuniverse.ch\/api\/1.0\/de\/counters\/get\/131"
  },
  {
   "index":132,
   "name":"Badi Test",
   "slug":"c5ec4b50313abd",
-  "url":"https:\/\/www.countee.ch\/app\/de\/counter\/c5ec4b50313abd"
+  "url_dashboard":"https:\/\/www.countee.ch\/app\/de\/counter\/c5ec4b50313abd",
+  "url_data":"https:\/\/www.startupuniverse.ch\/api\/1.0\/de\/counters\/get\/132"
  },
  {
   "index":133,
   "name":"SBM Test",
   "slug":"c5ec4c85b1cf4f",
-  "url":"https:\/\/www.countee.ch\/app\/de\/counter\/c5ec4c85b1cf4f"
+  "url_dashboard":"https:\/\/www.countee.ch\/app\/de\/counter\/c5ec4c85b1cf4f",
+  "url_data":"https:\/\/www.startupuniverse.ch\/api\/1.0\/de\/counters\/get\/133"
  },
  {
   "index":134,
   "name":"Digitec Store Z\u00fcrich",
   "slug":"c5ec4e88e6b063",
-  "url":"https:\/\/www.countee.ch\/app\/de\/counter\/c5ec4e88e6b063"
+  "url_dashboard":"https:\/\/www.countee.ch\/app\/de\/counter\/c5ec4e88e6b063",
+  "url_data":"https:\/\/www.startupuniverse.ch\/api\/1.0\/de\/counters\/get\/134"
  },
  {
   "index":135,
   "name":"c5ec4eaf1ce8dc",
   "slug":"c5ec4eaf1ce8dc",
-  "url":"https:\/\/www.countee.ch\/app\/de\/counter\/c5ec4eaf1ce8dc"
+  "url_dashboard":"https:\/\/www.countee.ch\/app\/de\/counter\/c5ec4eaf1ce8dc",
+  "url_data":"https:\/\/www.startupuniverse.ch\/api\/1.0\/de\/counters\/get\/135"
  },
  {
   "index":136,
   "name":"Gemeinderats - Sitzung",
   "slug":"c5ec4fa0a6b6c0",
-  "url":"https:\/\/www.countee.ch\/app\/de\/counter\/c5ec4fa0a6b6c0"
+  "url_dashboard":"https:\/\/www.countee.ch\/app\/de\/counter\/c5ec4fa0a6b6c0",
+  "url_data":"https:\/\/www.startupuniverse.ch\/api\/1.0\/de\/counters\/get\/136"
  },
  {
   "index":137,
   "name":"Test",
   "slug":"c5ec5514b88f4e",
-  "url":"https:\/\/www.countee.ch\/app\/de\/counter\/c5ec5514b88f4e"
+  "url_dashboard":"https:\/\/www.countee.ch\/app\/de\/counter\/c5ec5514b88f4e",
+  "url_data":"https:\/\/www.startupuniverse.ch\/api\/1.0\/de\/counters\/get\/137"
  },
  {
   "index":138,
   "name":"FakeNew",
   "slug":"c5ec5c90499c3e",
-  "url":"https:\/\/www.countee.ch\/app\/de\/counter\/c5ec5c90499c3e"
+  "url_dashboard":"https:\/\/www.countee.ch\/app\/de\/counter\/c5ec5c90499c3e",
+  "url_data":"https:\/\/www.startupuniverse.ch\/api\/1.0\/de\/counters\/get\/138"
  },
  {
   "index":139,
   "name":"EINGANG",
   "slug":"c5ec6538f1cd21",
-  "url":"https:\/\/www.countee.ch\/app\/de\/counter\/c5ec6538f1cd21"
+  "url_dashboard":"https:\/\/www.countee.ch\/app\/de\/counter\/c5ec6538f1cd21",
+  "url_data":"https:\/\/www.startupuniverse.ch\/api\/1.0\/de\/counters\/get\/139"
  },
  {
   "index":140,
   "name":"Tauchsport Uster",
   "slug":"c5ec77bf546a4e",
-  "url":"https:\/\/www.countee.ch\/app\/de\/counter\/c5ec77bf546a4e"
+  "url_dashboard":"https:\/\/www.countee.ch\/app\/de\/counter\/c5ec77bf546a4e",
+  "url_data":"https:\/\/www.startupuniverse.ch\/api\/1.0\/de\/counters\/get\/140"
  },
  {
   "index":141,
   "name":"Hallenbad City",
   "slug":"c5ec7e536b4ddb",
-  "url":"https:\/\/www.countee.ch\/app\/de\/counter\/c5ec7e536b4ddb"
+  "url_dashboard":"https:\/\/www.countee.ch\/app\/de\/counter\/c5ec7e536b4ddb",
+  "url_data":"https:\/\/www.startupuniverse.ch\/api\/1.0\/de\/counters\/get\/141"
  },
  {
   "index":142,
   "name":"c5ec97126611fe",
   "slug":"c5ec97126611fe",
-  "url":"https:\/\/www.countee.ch\/app\/de\/counter\/c5ec97126611fe"
+  "url_dashboard":"https:\/\/www.countee.ch\/app\/de\/counter\/c5ec97126611fe",
+  "url_data":"https:\/\/www.startupuniverse.ch\/api\/1.0\/de\/counters\/get\/142"
  },
  {
   "index":145,
   "name":"Schwimmbad Waldacher",
   "slug":"c5ecadbcf2e901",
-  "url":"https:\/\/www.countee.ch\/app\/de\/counter\/c5ecadbcf2e901"
+  "url_dashboard":"https:\/\/www.countee.ch\/app\/de\/counter\/c5ecadbcf2e901",
+  "url_data":"https:\/\/www.startupuniverse.ch\/api\/1.0\/de\/counters\/get\/145"
  },
  {
   "index":146,
   "name":"GZA Kafi",
   "slug":"c5ecb798a17704",
-  "url":"https:\/\/www.countee.ch\/app\/de\/counter\/c5ecb798a17704"
+  "url_dashboard":"https:\/\/www.countee.ch\/app\/de\/counter\/c5ecb798a17704",
+  "url_data":"https:\/\/www.startupuniverse.ch\/api\/1.0\/de\/counters\/get\/146"
  },
  {
   "index":147,
   "name":"Schachen Badi",
   "slug":"c5ecb9d5d99f44",
-  "url":"https:\/\/www.countee.ch\/app\/de\/counter\/c5ecb9d5d99f44"
+  "url_dashboard":"https:\/\/www.countee.ch\/app\/de\/counter\/c5ecb9d5d99f44",
+  "url_data":"https:\/\/www.startupuniverse.ch\/api\/1.0\/de\/counters\/get\/147"
  }
 ]
